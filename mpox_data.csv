@@ -1,0 +1,2531 @@
+country,iso3,month_start,cases,deaths
+Andorra,AND,Jul 2022,3,0
+Andorra,AND,Aug 2022,1,0
+Andorra,AND,Sep 2022,0,0
+Andorra,AND,Oct 2022,0,0
+Andorra,AND,Nov 2022,0,0
+Andorra,AND,Dec 2022,0,0
+Andorra,AND,Jan 2023,0,0
+Andorra,AND,Feb 2023,0,0
+Andorra,AND,Mar 2023,0,0
+Andorra,AND,Apr 2023,0,0
+Andorra,AND,May 2023,0,0
+Andorra,AND,Jun 2023,0,0
+Andorra,AND,Jul 2023,0,0
+Andorra,AND,Aug 2023,0,0
+Andorra,AND,Sep 2023,0,0
+Andorra,AND,Oct 2023,0,0
+Andorra,AND,Nov 2023,0,0
+Andorra,AND,Dec 2023,0,0
+Andorra,AND,Jan 2024,0,0
+Andorra,AND,Feb 2024,0,0
+Andorra,AND,Mar 2024,0,0
+Andorra,AND,Apr 2024,0,0
+Andorra,AND,May 2024,0,0
+Andorra,AND,Jun 2024,0,0
+Andorra,AND,Jul 2024,0,0
+Argentina,ARG,May 2022,2,0
+Argentina,ARG,Jun 2022,4,0
+Argentina,ARG,Jul 2022,14,0
+Argentina,ARG,Aug 2022,150,0
+Argentina,ARG,Sep 2022,226,0
+Argentina,ARG,Oct 2022,279,0
+Argentina,ARG,Nov 2022,269,1
+Argentina,ARG,Dec 2022,74,0
+Argentina,ARG,Jan 2023,57,1
+Argentina,ARG,Feb 2023,33,0
+Argentina,ARG,Mar 2023,16,0
+Argentina,ARG,Apr 2023,4,0
+Argentina,ARG,May 2023,1,0
+Argentina,ARG,Jun 2023,0,0
+Argentina,ARG,Jul 2023,0,0
+Argentina,ARG,Aug 2023,1,0
+Argentina,ARG,Sep 2023,0,0
+Argentina,ARG,Oct 2023,5,0
+Argentina,ARG,Nov 2023,1,0
+Argentina,ARG,Dec 2023,0,0
+Argentina,ARG,Jan 2024,13,0
+Argentina,ARG,Feb 2024,0,0
+Argentina,ARG,Mar 2024,0,0
+Argentina,ARG,Apr 2024,0,0
+Argentina,ARG,May 2024,0,0
+Argentina,ARG,Jun 2024,0,0
+Argentina,ARG,Jul 2024,5,0
+Aruba,ABW,Aug 2022,2,0
+Aruba,ABW,Sep 2022,1,0
+Aruba,ABW,Oct 2022,0,0
+Aruba,ABW,Nov 2022,0,0
+Aruba,ABW,Dec 2022,0,0
+Aruba,ABW,Jan 2023,0,0
+Aruba,ABW,Feb 2023,0,0
+Aruba,ABW,Mar 2023,0,0
+Aruba,ABW,Apr 2023,0,0
+Aruba,ABW,May 2023,0,0
+Aruba,ABW,Jun 2023,0,0
+Aruba,ABW,Jul 2023,0,0
+Aruba,ABW,Aug 2023,0,0
+Aruba,ABW,Sep 2023,0,0
+Aruba,ABW,Oct 2023,0,0
+Aruba,ABW,Nov 2023,0,0
+Aruba,ABW,Dec 2023,0,0
+Aruba,ABW,Jan 2024,0,0
+Aruba,ABW,Feb 2024,0,0
+Aruba,ABW,Mar 2024,0,0
+Aruba,ABW,Apr 2024,0,0
+Aruba,ABW,May 2024,0,0
+Aruba,ABW,Jun 2024,0,0
+Aruba,ABW,Jul 2024,0,0
+Australia,AUS,May 2022,2,0
+Australia,AUS,Jun 2022,10,0
+Australia,AUS,Jul 2022,33,0
+Australia,AUS,Aug 2022,61,0
+Australia,AUS,Sep 2022,30,0
+Australia,AUS,Oct 2022,4,0
+Australia,AUS,Nov 2022,3,0
+Australia,AUS,Dec 2022,1,0
+Australia,AUS,Feb 2023,1,0
+Australia,AUS,Apr 2023,2,0
+Australia,AUS,May 2023,1,0
+Australia,AUS,Jun 2023,1,0
+Australia,AUS,Jul 2023,7,0
+Australia,AUS,Aug 2023,3,0
+Australia,AUS,Sep 2023,5,0
+Australia,AUS,Oct 2023,2,0
+Australia,AUS,Nov 2023,2,0
+Australia,AUS,Dec 2023,2,0
+Australia,AUS,Jan 2024,6,0
+Australia,AUS,Apr 2024,5,0
+Australia,AUS,May 2024,33,0
+Australia,AUS,Jun 2024,64,0
+Australia,AUS,Jul 2024,101,0
+Austria,AUT,May 2022,1,0
+Austria,AUT,Jun 2022,19,0
+Austria,AUT,Jul 2022,98,0
+Austria,AUT,Aug 2022,147,0
+Austria,AUT,Sep 2022,48,0
+Austria,AUT,Oct 2022,10,0
+Austria,AUT,Nov 2022,3,0
+Austria,AUT,Dec 2022,1,0
+Austria,AUT,Jan 2023,0,0
+Austria,AUT,Feb 2023,0,0
+Austria,AUT,Mar 2023,0,0
+Austria,AUT,Apr 2023,1,0
+Austria,AUT,May 2023,0,0
+Austria,AUT,Jun 2023,0,0
+Austria,AUT,Jul 2023,0,0
+Austria,AUT,Aug 2023,0,0
+Austria,AUT,Sep 2023,2,0
+Austria,AUT,Oct 2023,1,0
+Austria,AUT,Nov 2023,2,0
+Austria,AUT,Dec 2023,5,0
+Austria,AUT,Jan 2024,3,0
+Austria,AUT,Feb 2024,4,1
+Austria,AUT,Mar 2024,0,0
+Austria,AUT,Apr 2024,1,0
+Austria,AUT,May 2024,2,0
+Austria,AUT,Jun 2024,0,0
+Austria,AUT,Jul 2024,0,0
+Bahamas,BHS,Jul 2022,1,0
+Bahamas,BHS,Aug 2022,0,0
+Bahamas,BHS,Sep 2022,0,0
+Bahamas,BHS,Oct 2022,0,0
+Bahamas,BHS,Nov 2022,0,0
+Bahamas,BHS,Dec 2022,0,0
+Bahamas,BHS,Jan 2023,0,0
+Bahamas,BHS,Feb 2023,0,0
+Bahamas,BHS,Mar 2023,0,0
+Bahamas,BHS,Apr 2023,0,0
+Bahamas,BHS,May 2023,2,0
+Bahamas,BHS,Jun 2023,0,0
+Bahamas,BHS,Jul 2023,0,0
+Bahamas,BHS,Aug 2023,0,0
+Bahamas,BHS,Sep 2023,0,0
+Bahamas,BHS,Oct 2023,0,0
+Bahamas,BHS,Nov 2023,0,0
+Bahamas,BHS,Dec 2023,0,0
+Bahamas,BHS,Jan 2024,0,0
+Bahamas,BHS,Feb 2024,0,0
+Bahamas,BHS,Mar 2024,0,0
+Bahamas,BHS,Apr 2024,0,0
+Bahamas,BHS,May 2024,0,0
+Bahamas,BHS,Jun 2024,0,0
+Bahamas,BHS,Jul 2024,0,0
+Bahrain,BHR,Sep 2022,1,0
+Bahrain,BHR,Apr 2023,1,0
+Barbados,BRB,Jul 2022,1,0
+Barbados,BRB,Aug 2022,0,0
+Barbados,BRB,Sep 2022,0,0
+Barbados,BRB,Oct 2022,0,0
+Barbados,BRB,Nov 2022,0,0
+Barbados,BRB,Dec 2022,0,0
+Barbados,BRB,Jan 2023,0,0
+Barbados,BRB,Feb 2023,0,0
+Barbados,BRB,Mar 2023,0,0
+Barbados,BRB,Apr 2023,0,0
+Barbados,BRB,May 2023,0,0
+Barbados,BRB,Jun 2023,0,0
+Barbados,BRB,Jul 2023,0,0
+Barbados,BRB,Aug 2023,0,0
+Barbados,BRB,Sep 2023,0,0
+Barbados,BRB,Oct 2023,0,0
+Barbados,BRB,Nov 2023,0,0
+Barbados,BRB,Dec 2023,0,0
+Barbados,BRB,Jan 2024,0,0
+Barbados,BRB,Feb 2024,0,0
+Barbados,BRB,Mar 2024,0,0
+Barbados,BRB,Apr 2024,0,0
+Barbados,BRB,May 2024,0,0
+Barbados,BRB,Jun 2024,0,0
+Barbados,BRB,Jul 2024,0,0
+Belgium,BEL,May 2022,10,0
+Belgium,BEL,Jun 2022,107,0
+Belgium,BEL,Jul 2022,276,0
+Belgium,BEL,Aug 2022,313,1
+Belgium,BEL,Sep 2022,64,0
+Belgium,BEL,Oct 2022,15,0
+Belgium,BEL,Nov 2022,4,0
+Belgium,BEL,Dec 2022,1,0
+Belgium,BEL,Jan 2023,3,0
+Belgium,BEL,Feb 2023,0,1
+Belgium,BEL,Mar 2023,0,0
+Belgium,BEL,Apr 2023,0,0
+Belgium,BEL,May 2023,0,0
+Belgium,BEL,Jun 2023,2,0
+Belgium,BEL,Jul 2023,0,0
+Belgium,BEL,Aug 2023,0,0
+Belgium,BEL,Sep 2023,0,0
+Belgium,BEL,Oct 2023,0,0
+Belgium,BEL,Nov 2023,2,0
+Belgium,BEL,Dec 2023,3,0
+Belgium,BEL,Jan 2024,3,0
+Belgium,BEL,Feb 2024,2,0
+Belgium,BEL,Mar 2024,1,0
+Belgium,BEL,Apr 2024,3,0
+Belgium,BEL,May 2024,0,0
+Belgium,BEL,Jun 2024,1,0
+Belgium,BEL,Jul 2024,1,0
+Benin,BEN,Jun 2022,3,0
+Benin,BEN,Jul 2022,0,0
+Benin,BEN,Aug 2022,0,0
+Benin,BEN,Sep 2022,0,0
+Benin,BEN,Oct 2022,0,0
+Benin,BEN,Nov 2022,0,0
+Benin,BEN,Dec 2022,0,0
+Benin,BEN,Jan 2023,0,0
+Benin,BEN,Feb 2023,0,0
+Benin,BEN,Mar 2023,0,0
+Benin,BEN,Apr 2023,0,0
+Benin,BEN,May 2023,0,0
+Benin,BEN,Jun 2023,0,0
+Benin,BEN,Jul 2023,0,0
+Benin,BEN,Aug 2023,0,0
+Benin,BEN,Sep 2023,0,0
+Benin,BEN,Oct 2023,0,0
+Benin,BEN,Nov 2023,0,0
+Benin,BEN,Dec 2023,0,0
+Benin,BEN,Jan 2024,0,0
+Benin,BEN,Feb 2024,0,0
+Benin,BEN,Mar 2024,0,0
+Benin,BEN,Apr 2024,0,0
+Benin,BEN,May 2024,0,0
+Benin,BEN,Jun 2024,0,0
+Benin,BEN,Jul 2024,0,0
+Bermuda,BMU,Jul 2022,1,0
+Bermuda,BMU,Aug 2022,0,0
+Bermuda,BMU,Sep 2022,0,0
+Bermuda,BMU,Oct 2022,0,0
+Bermuda,BMU,Nov 2022,0,0
+Bermuda,BMU,Dec 2022,0,0
+Bermuda,BMU,Jan 2023,0,0
+Bermuda,BMU,Feb 2023,0,0
+Bermuda,BMU,Mar 2023,0,0
+Bermuda,BMU,Apr 2023,0,0
+Bermuda,BMU,May 2023,0,0
+Bermuda,BMU,Jun 2023,0,0
+Bermuda,BMU,Jul 2023,0,0
+Bermuda,BMU,Aug 2023,0,0
+Bermuda,BMU,Sep 2023,0,0
+Bermuda,BMU,Oct 2023,0,0
+Bermuda,BMU,Nov 2023,0,0
+Bermuda,BMU,Dec 2023,0,0
+Bermuda,BMU,Jan 2024,0,0
+Bermuda,BMU,Feb 2024,0,0
+Bermuda,BMU,Mar 2024,0,0
+Bermuda,BMU,Apr 2024,0,0
+Bermuda,BMU,May 2024,0,0
+Bermuda,BMU,Jun 2024,0,0
+Bermuda,BMU,Jul 2024,0,0
+Bolivia,BOL,Aug 2022,86,0
+Bolivia,BOL,Sep 2022,109,0
+Bolivia,BOL,Oct 2022,46,0
+Bolivia,BOL,Nov 2022,18,0
+Bolivia,BOL,Dec 2022,2,0
+Bolivia,BOL,Jan 2023,3,0
+Bolivia,BOL,Feb 2023,1,0
+Bolivia,BOL,Mar 2023,0,0
+Bolivia,BOL,Apr 2023,0,0
+Bolivia,BOL,May 2023,0,0
+Bolivia,BOL,Jun 2023,0,0
+Bolivia,BOL,Jul 2023,0,0
+Bolivia,BOL,Aug 2023,0,0
+Bolivia,BOL,Sep 2023,0,0
+Bolivia,BOL,Oct 2023,0,0
+Bolivia,BOL,Nov 2023,0,0
+Bolivia,BOL,Dec 2023,0,0
+Bolivia,BOL,Jan 2024,0,0
+Bolivia,BOL,Feb 2024,0,0
+Bolivia,BOL,Mar 2024,0,0
+Bolivia,BOL,Apr 2024,0,0
+Bolivia,BOL,May 2024,0,0
+Bolivia,BOL,Jun 2024,0,0
+Bolivia,BOL,Jul 2024,0,0
+Bosnia and Herzegovina,BIH,Jul 2022,1,0
+Bosnia and Herzegovina,BIH,Aug 2022,2,0
+Bosnia and Herzegovina,BIH,Sep 2022,2,0
+Bosnia and Herzegovina,BIH,Oct 2022,4,0
+Bosnia and Herzegovina,BIH,Nov 2022,0,0
+Bosnia and Herzegovina,BIH,Dec 2022,0,0
+Bosnia and Herzegovina,BIH,Jan 2023,0,0
+Bosnia and Herzegovina,BIH,Feb 2023,0,0
+Bosnia and Herzegovina,BIH,Mar 2023,0,0
+Bosnia and Herzegovina,BIH,Apr 2023,0,0
+Bosnia and Herzegovina,BIH,May 2023,0,0
+Bosnia and Herzegovina,BIH,Jun 2023,0,0
+Bosnia and Herzegovina,BIH,Jul 2023,0,0
+Bosnia and Herzegovina,BIH,Aug 2023,0,0
+Bosnia and Herzegovina,BIH,Sep 2023,0,0
+Bosnia and Herzegovina,BIH,Oct 2023,0,0
+Bosnia and Herzegovina,BIH,Nov 2023,0,0
+Bosnia and Herzegovina,BIH,Dec 2023,0,0
+Bosnia and Herzegovina,BIH,Jan 2024,0,0
+Bosnia and Herzegovina,BIH,Feb 2024,0,0
+Bosnia and Herzegovina,BIH,Mar 2024,0,0
+Bosnia and Herzegovina,BIH,Apr 2024,0,0
+Bosnia and Herzegovina,BIH,May 2024,0,0
+Bosnia and Herzegovina,BIH,Jun 2024,0,0
+Bosnia and Herzegovina,BIH,Jul 2024,0,0
+Brazil,BRA,May 2022,884,2
+Brazil,BRA,Jun 2022,440,0
+Brazil,BRA,Jul 2022,2421,6
+Brazil,BRA,Aug 2022,3157,3
+Brazil,BRA,Sep 2022,1445,2
+Brazil,BRA,Oct 2022,818,1
+Brazil,BRA,Nov 2022,708,0
+Brazil,BRA,Dec 2022,444,1
+Brazil,BRA,Jan 2023,186,0
+Brazil,BRA,Feb 2023,47,0
+Brazil,BRA,Mar 2023,40,0
+Brazil,BRA,Apr 2023,26,0
+Brazil,BRA,May 2023,26,0
+Brazil,BRA,Jun 2023,21,0
+Brazil,BRA,Jul 2023,39,0
+Brazil,BRA,Aug 2023,51,0
+Brazil,BRA,Sep 2023,55,0
+Brazil,BRA,Oct 2023,144,0
+Brazil,BRA,Nov 2023,97,0
+Brazil,BRA,Dec 2023,107,0
+Brazil,BRA,Jan 2024,191,0
+Brazil,BRA,Feb 2024,127,0
+Brazil,BRA,Mar 2024,81,0
+Brazil,BRA,Apr 2024,90,0
+Brazil,BRA,May 2024,55,0
+Brazil,BRA,Jun 2024,41,0
+Brazil,BRA,Jul 2024,100,0
+Bulgaria,BGR,Jun 2022,3,0
+Bulgaria,BGR,Jul 2022,1,0
+Bulgaria,BGR,Aug 2022,0,0
+Bulgaria,BGR,Sep 2022,2,0
+Bulgaria,BGR,Oct 2022,0,0
+Bulgaria,BGR,Nov 2022,0,0
+Bulgaria,BGR,Dec 2022,0,0
+Bulgaria,BGR,Jan 2023,0,0
+Bulgaria,BGR,Feb 2023,0,0
+Bulgaria,BGR,Mar 2023,0,0
+Bulgaria,BGR,Apr 2023,0,0
+Bulgaria,BGR,May 2023,0,0
+Bulgaria,BGR,Jun 2023,0,0
+Bulgaria,BGR,Jul 2023,0,0
+Bulgaria,BGR,Aug 2023,0,0
+Bulgaria,BGR,Sep 2023,0,0
+Bulgaria,BGR,Oct 2023,0,0
+Bulgaria,BGR,Nov 2023,0,0
+Bulgaria,BGR,Dec 2023,0,0
+Bulgaria,BGR,Jan 2024,0,0
+Bulgaria,BGR,Feb 2024,0,0
+Bulgaria,BGR,Mar 2024,0,0
+Bulgaria,BGR,Apr 2024,0,0
+Bulgaria,BGR,May 2024,1,0
+Bulgaria,BGR,Jun 2024,0,0
+Bulgaria,BGR,Jul 2024,0,0
+Burundi,BDI,Jul 2024,9,0
+Cambodia,KHM,Dec 2023,1,0
+Cambodia,KHM,Jan 2024,2,0
+Cambodia,KHM,Feb 2024,10,0
+Cameroon,CMR,Mar 2022,3,1
+Cameroon,CMR,Apr 2022,0,0
+Cameroon,CMR,May 2022,1,0
+Cameroon,CMR,Jun 2022,2,0
+Cameroon,CMR,Jul 2022,2,0
+Cameroon,CMR,Aug 2022,0,2
+Cameroon,CMR,Sep 2022,2,0
+Cameroon,CMR,Oct 2022,6,0
+Cameroon,CMR,Nov 2022,2,0
+Cameroon,CMR,Dec 2022,0,0
+Cameroon,CMR,Jan 2023,0,0
+Cameroon,CMR,Feb 2023,0,0
+Cameroon,CMR,Mar 2023,0,0
+Cameroon,CMR,Apr 2023,0,0
+Cameroon,CMR,May 2023,13,0
+Cameroon,CMR,Jun 2023,10,0
+Cameroon,CMR,Jul 2023,2,0
+Cameroon,CMR,Aug 2023,0,0
+Cameroon,CMR,Sep 2023,1,0
+Cameroon,CMR,Oct 2023,1,0
+Cameroon,CMR,Nov 2023,0,0
+Cameroon,CMR,Dec 2023,0,0
+Cameroon,CMR,Jan 2024,2,1
+Cameroon,CMR,Feb 2024,0,0
+Cameroon,CMR,Mar 2024,0,0
+Cameroon,CMR,Apr 2024,3,1
+Cameroon,CMR,May 2024,0,0
+Cameroon,CMR,Jun 2024,0,0
+Cameroon,CMR,Jul 2024,0,0
+Canada,CAN,Apr 2022,2,0
+Canada,CAN,May 2022,150,0
+Canada,CAN,Jun 2022,365,0
+Canada,CAN,Jul 2022,473,0
+Canada,CAN,Aug 2022,321,0
+Canada,CAN,Sep 2022,62,0
+Canada,CAN,Oct 2022,14,0
+Canada,CAN,Nov 2022,10,0
+Canada,CAN,Dec 2022,4,0
+Canada,CAN,Jan 2023,8,0
+Canada,CAN,Feb 2023,10,0
+Canada,CAN,Mar 2023,5,0
+Canada,CAN,Apr 2023,7,0
+Canada,CAN,May 2023,9,0
+Canada,CAN,Jun 2023,4,0
+Canada,CAN,Jul 2023,3,0
+Canada,CAN,Aug 2023,4,0
+Canada,CAN,Sep 2023,6,0
+Canada,CAN,Oct 2023,3,0
+Canada,CAN,Nov 2023,7,0
+Canada,CAN,Dec 2023,3,0
+Canada,CAN,Jan 2024,7,0
+Canada,CAN,Feb 2024,23,0
+Canada,CAN,Mar 2024,11,0
+Canada,CAN,Apr 2024,15,0
+Canada,CAN,May 2024,14,0
+Canada,CAN,Jun 2024,23,0
+Canada,CAN,Jul 2024,14,0
+Central African Republic,CAF,Jan 2022,5,0
+Central African Republic,CAF,Feb 2022,7,0
+Central African Republic,CAF,Mar 2022,6,0
+Central African Republic,CAF,Apr 2022,1,0
+Central African Republic,CAF,May 2022,0,0
+Central African Republic,CAF,Jun 2022,0,0
+Central African Republic,CAF,Jul 2022,3,0
+Central African Republic,CAF,Aug 2022,1,0
+Central African Republic,CAF,Sep 2022,2,0
+Central African Republic,CAF,Oct 2022,3,0
+Central African Republic,CAF,Nov 2022,0,0
+Central African Republic,CAF,Dec 2022,2,0
+Central African Republic,CAF,Jan 2023,7,0
+Central African Republic,CAF,Feb 2023,4,1
+Central African Republic,CAF,Mar 2023,4,0
+Central African Republic,CAF,Apr 2023,0,0
+Central African Republic,CAF,May 2023,0,0
+Central African Republic,CAF,Jun 2023,0,0
+Central African Republic,CAF,Jul 2023,0,0
+Central African Republic,CAF,Aug 2023,0,0
+Central African Republic,CAF,Sep 2023,0,0
+Central African Republic,CAF,Oct 2023,0,0
+Central African Republic,CAF,Nov 2023,0,0
+Central African Republic,CAF,Dec 2023,2,0
+Central African Republic,CAF,Jan 2024,5,0
+Central African Republic,CAF,Feb 2024,9,0
+Central African Republic,CAF,Mar 2024,4,0
+Central African Republic,CAF,Apr 2024,1,0
+Central African Republic,CAF,May 2024,0,0
+Central African Republic,CAF,Jun 2024,5,0
+Central African Republic,CAF,Jul 2024,17,1
+Chile,CHL,Jun 2022,6,0
+Chile,CHL,Jul 2022,49,0
+Chile,CHL,Aug 2022,326,0
+Chile,CHL,Sep 2022,499,0
+Chile,CHL,Oct 2022,269,0
+Chile,CHL,Nov 2022,163,2
+Chile,CHL,Dec 2022,65,1
+Chile,CHL,Jan 2023,40,0
+Chile,CHL,Feb 2023,15,0
+Chile,CHL,Mar 2023,7,0
+Chile,CHL,Apr 2023,1,0
+Chile,CHL,May 2023,1,0
+Chile,CHL,Jun 2023,0,0
+Chile,CHL,Jul 2023,1,1
+Chile,CHL,Aug 2023,0,0
+Chile,CHL,Sep 2023,0,0
+Chile,CHL,Oct 2023,3,0
+Chile,CHL,Nov 2023,2,0
+Chile,CHL,Dec 2023,2,0
+Chile,CHL,Jan 2024,0,0
+Chile,CHL,Feb 2024,0,0
+Chile,CHL,Mar 2024,0,0
+Chile,CHL,Apr 2024,0,0
+Chile,CHL,May 2024,0,0
+Chile,CHL,Jun 2024,0,0
+Chile,CHL,Jul 2024,0,0
+China,CHN,Jun 2022,1,0
+China,CHN,Jul 2022,1,0
+China,CHN,Aug 2022,1,0
+China,CHN,Sep 2022,2,0
+China,CHN,Oct 2022,1,0
+China,CHN,Feb 2023,2,0
+China,CHN,Mar 2023,16,0
+China,CHN,Apr 2023,31,0
+China,CHN,May 2023,81,0
+China,CHN,Jun 2023,54,0
+China,CHN,Jul 2023,191,0
+China,CHN,Aug 2023,546,0
+China,CHN,Sep 2023,867,0
+China,CHN,Oct 2023,141,0
+China,CHN,Nov 2023,89,1
+China,CHN,Dec 2023,103,0
+China,CHN,Jan 2024,100,0
+China,CHN,Feb 2024,73,0
+China,CHN,Mar 2024,54,0
+China,CHN,Apr 2024,42,0
+China,CHN,May 2024,57,0
+China,CHN,Jun 2024,58,0
+China,CHN,Jul 2024,17,0
+Colombia,COL,May 2022,2,0
+Colombia,COL,Jun 2022,4,0
+Colombia,COL,Jul 2022,57,0
+Colombia,COL,Aug 2022,1476,0
+Colombia,COL,Sep 2022,1526,0
+Colombia,COL,Oct 2022,674,0
+Colombia,COL,Nov 2022,263,0
+Colombia,COL,Dec 2022,57,0
+Colombia,COL,Jan 2023,21,0
+Colombia,COL,Feb 2023,8,0
+Colombia,COL,Mar 2023,1,0
+Colombia,COL,Apr 2023,0,0
+Colombia,COL,May 2023,2,0
+Colombia,COL,Jun 2023,0,0
+Colombia,COL,Jul 2023,1,0
+Colombia,COL,Aug 2023,5,0
+Colombia,COL,Sep 2023,2,0
+Colombia,COL,Oct 2023,15,0
+Colombia,COL,Nov 2023,10,0
+Colombia,COL,Dec 2023,24,0
+Colombia,COL,Jan 2024,40,0
+Colombia,COL,Feb 2024,15,0
+Colombia,COL,Mar 2024,13,0
+Colombia,COL,Apr 2024,23,0
+Colombia,COL,May 2024,4,0
+Colombia,COL,Jun 2024,7,0
+Colombia,COL,Jul 2024,6,0
+Congo,COG,Apr 2022,2,0
+Congo,COG,May 2022,0,0
+Congo,COG,Jun 2022,0,0
+Congo,COG,Jul 2022,0,0
+Congo,COG,Aug 2022,1,0
+Congo,COG,Sep 2022,2,0
+Congo,COG,Oct 2022,0,0
+Congo,COG,Nov 2022,0,0
+Congo,COG,Dec 2022,0,0
+Congo,COG,Jan 2023,0,0
+Congo,COG,Feb 2023,0,0
+Congo,COG,Mar 2023,0,0
+Congo,COG,Apr 2023,0,0
+Congo,COG,May 2023,0,0
+Congo,COG,Jun 2023,0,0
+Congo,COG,Jul 2023,0,0
+Congo,COG,Aug 2023,7,0
+Congo,COG,Sep 2023,6,0
+Congo,COG,Oct 2023,7,2
+Congo,COG,Nov 2023,1,0
+Congo,COG,Dec 2023,0,0
+Congo,COG,Jan 2024,2,0
+Congo,COG,Feb 2024,7,0
+Congo,COG,Mar 2024,10,0
+Congo,COG,Apr 2024,0,0
+Congo,COG,May 2024,0,0
+Congo,COG,Jun 2024,0,0
+Congo,COG,Jul 2024,0,0
+Costa Rica,CRI,Jul 2022,3,0
+Costa Rica,CRI,Aug 2022,0,0
+Costa Rica,CRI,Sep 2022,1,0
+Costa Rica,CRI,Oct 2022,4,0
+Costa Rica,CRI,Nov 2022,16,0
+Costa Rica,CRI,Dec 2022,46,0
+Costa Rica,CRI,Jan 2023,70,0
+Costa Rica,CRI,Feb 2023,62,1
+Costa Rica,CRI,Mar 2023,15,0
+Costa Rica,CRI,Apr 2023,4,0
+Costa Rica,CRI,May 2023,2,0
+Costa Rica,CRI,Jun 2023,2,0
+Costa Rica,CRI,Jul 2023,0,0
+Costa Rica,CRI,Aug 2023,1,0
+Costa Rica,CRI,Sep 2023,0,0
+Costa Rica,CRI,Oct 2023,0,0
+Costa Rica,CRI,Nov 2023,0,0
+Costa Rica,CRI,Dec 2023,0,0
+Costa Rica,CRI,Jan 2024,0,0
+Costa Rica,CRI,Feb 2024,0,0
+Costa Rica,CRI,Mar 2024,0,0
+Costa Rica,CRI,Apr 2024,0,0
+Costa Rica,CRI,May 2024,0,0
+Costa Rica,CRI,Jun 2024,0,0
+Costa Rica,CRI,Jul 2024,0,0
+Croatia,HRV,Jun 2022,1,0
+Croatia,HRV,Jul 2022,10,0
+Croatia,HRV,Aug 2022,15,0
+Croatia,HRV,Sep 2022,3,0
+Croatia,HRV,Oct 2022,0,0
+Croatia,HRV,Nov 2022,0,0
+Croatia,HRV,Dec 2022,0,0
+Croatia,HRV,Jan 2023,4,0
+Croatia,HRV,Feb 2023,0,0
+Croatia,HRV,Mar 2023,0,0
+Croatia,HRV,Apr 2023,0,0
+Croatia,HRV,May 2023,0,0
+Croatia,HRV,Jun 2023,0,0
+Croatia,HRV,Jul 2023,0,0
+Croatia,HRV,Aug 2023,0,0
+Croatia,HRV,Sep 2023,0,0
+Croatia,HRV,Oct 2023,0,0
+Croatia,HRV,Nov 2023,0,0
+Croatia,HRV,Dec 2023,0,0
+Croatia,HRV,Jan 2024,0,0
+Croatia,HRV,Feb 2024,0,0
+Croatia,HRV,Mar 2024,0,0
+Croatia,HRV,Apr 2024,1,0
+Croatia,HRV,May 2024,0,0
+Croatia,HRV,Jun 2024,0,0
+Croatia,HRV,Jul 2024,0,0
+Cuba,CUB,Aug 2022,2,1
+Cuba,CUB,Sep 2022,1,0
+Cuba,CUB,Oct 2022,1,0
+Cuba,CUB,Nov 2022,4,0
+Cuba,CUB,Dec 2022,0,0
+Cuba,CUB,Jan 2023,0,0
+Cuba,CUB,Feb 2023,0,0
+Cuba,CUB,Mar 2023,0,0
+Cuba,CUB,Apr 2023,0,0
+Cuba,CUB,May 2023,0,0
+Cuba,CUB,Jun 2023,0,0
+Cuba,CUB,Jul 2023,0,0
+Cuba,CUB,Aug 2023,0,0
+Cuba,CUB,Sep 2023,0,0
+Cuba,CUB,Oct 2023,0,0
+Cuba,CUB,Nov 2023,0,0
+Cuba,CUB,Dec 2023,0,0
+Cuba,CUB,Jan 2024,0,0
+Cuba,CUB,Feb 2024,0,0
+Cuba,CUB,Mar 2024,0,0
+Cuba,CUB,Apr 2024,0,0
+Cuba,CUB,May 2024,0,0
+Cuba,CUB,Jun 2024,0,0
+Cuba,CUB,Jul 2024,0,0
+Curaçao,CUW,Aug 2022,1,0
+Curaçao,CUW,Sep 2022,2,0
+Curaçao,CUW,Oct 2022,0,0
+Curaçao,CUW,Nov 2022,0,0
+Curaçao,CUW,Dec 2022,0,0
+Curaçao,CUW,Jan 2023,0,0
+Curaçao,CUW,Feb 2023,0,0
+Curaçao,CUW,Mar 2023,0,0
+Curaçao,CUW,Apr 2023,0,0
+Curaçao,CUW,May 2023,0,0
+Curaçao,CUW,Jun 2023,0,0
+Curaçao,CUW,Jul 2023,0,0
+Curaçao,CUW,Aug 2023,0,0
+Curaçao,CUW,Sep 2023,0,0
+Curaçao,CUW,Oct 2023,0,0
+Curaçao,CUW,Nov 2023,0,0
+Curaçao,CUW,Dec 2023,0,0
+Curaçao,CUW,Jan 2024,0,0
+Curaçao,CUW,Feb 2024,0,0
+Curaçao,CUW,Mar 2024,0,0
+Curaçao,CUW,Apr 2024,0,0
+Curaçao,CUW,May 2024,0,0
+Curaçao,CUW,Jun 2024,0,0
+Curaçao,CUW,Jul 2024,0,0
+Cyprus,CYP,Aug 2022,5,0
+Cyprus,CYP,Sep 2022,0,0
+Cyprus,CYP,Oct 2022,0,0
+Cyprus,CYP,Nov 2022,0,0
+Cyprus,CYP,Dec 2022,0,0
+Cyprus,CYP,Jan 2023,0,0
+Cyprus,CYP,Feb 2023,0,0
+Cyprus,CYP,Mar 2023,0,0
+Cyprus,CYP,Apr 2023,0,0
+Cyprus,CYP,May 2023,0,0
+Cyprus,CYP,Jun 2023,0,0
+Cyprus,CYP,Jul 2023,0,0
+Cyprus,CYP,Aug 2023,0,0
+Cyprus,CYP,Sep 2023,0,0
+Cyprus,CYP,Oct 2023,0,0
+Cyprus,CYP,Nov 2023,0,0
+Cyprus,CYP,Dec 2023,0,0
+Cyprus,CYP,Jan 2024,0,0
+Cyprus,CYP,Feb 2024,0,0
+Cyprus,CYP,Mar 2024,0,0
+Cyprus,CYP,Apr 2024,0,0
+Cyprus,CYP,May 2024,0,0
+Cyprus,CYP,Jun 2024,0,0
+Cyprus,CYP,Jul 2024,0,0
+Czechia,CZE,May 2022,5,0
+Czechia,CZE,Jun 2022,3,0
+Czechia,CZE,Jul 2022,8,0
+Czechia,CZE,Aug 2022,32,0
+Czechia,CZE,Sep 2022,19,1
+Czechia,CZE,Oct 2022,3,0
+Czechia,CZE,Nov 2022,0,0
+Czechia,CZE,Dec 2022,1,0
+Czechia,CZE,Jan 2023,0,0
+Czechia,CZE,Feb 2023,0,0
+Czechia,CZE,Mar 2023,0,0
+Czechia,CZE,Apr 2023,0,0
+Czechia,CZE,May 2023,0,0
+Czechia,CZE,Jun 2023,0,0
+Czechia,CZE,Jul 2023,0,0
+Czechia,CZE,Aug 2023,0,0
+Czechia,CZE,Sep 2023,0,0
+Czechia,CZE,Oct 2023,0,0
+Czechia,CZE,Nov 2023,0,0
+Czechia,CZE,Dec 2023,0,0
+Czechia,CZE,Jan 2024,1,0
+Czechia,CZE,Feb 2024,6,0
+Czechia,CZE,Mar 2024,0,0
+Czechia,CZE,Apr 2024,3,0
+Czechia,CZE,May 2024,1,0
+Czechia,CZE,Jun 2024,0,0
+Czechia,CZE,Jul 2024,0,0
+Côte d'Ivoire,CIV,Jul 2024,3,0
+Congo,COD,May 2022,10,0
+Congo,COD,Jun 2022,90,0
+Congo,COD,Jul 2022,0,0
+Congo,COD,Aug 2022,74,0
+Congo,COD,Sep 2022,26,0
+Congo,COD,Oct 2022,51,0
+Congo,COD,Nov 2022,21,0
+Congo,COD,Dec 2022,7,0
+Congo,COD,Jan 2023,98,0
+Congo,COD,Feb 2023,43,0
+Congo,COD,Mar 2023,31,0
+Congo,COD,Apr 2023,107,0
+Congo,COD,May 2023,85,2
+Congo,COD,Jun 2023,91,0
+Congo,COD,Jul 2023,100,0
+Congo,COD,Aug 2023,46,0
+Congo,COD,Sep 2023,31,0
+Congo,COD,Oct 2023,135,0
+Congo,COD,Nov 2023,125,0
+Congo,COD,Dec 2023,74,0
+Congo,COD,Jan 2024,214,1
+Congo,COD,Feb 2024,225,0
+Congo,COD,Mar 2024,287,1
+Congo,COD,Apr 2024,315,3
+Congo,COD,May 2024,617,4
+Congo,COD,Jun 2024,744,5
+Congo,COD,Jul 2024,738,5
+Denmark,DNK,May 2022,2,0
+Denmark,DNK,Jun 2022,18,0
+Denmark,DNK,Jul 2022,61,0
+Denmark,DNK,Aug 2022,93,0
+Denmark,DNK,Sep 2022,11,0
+Denmark,DNK,Oct 2022,6,0
+Denmark,DNK,Nov 2022,0,0
+Denmark,DNK,Dec 2022,1,0
+Denmark,DNK,Jan 2023,4,0
+Denmark,DNK,Feb 2023,0,0
+Denmark,DNK,Mar 2023,0,0
+Denmark,DNK,Apr 2023,0,0
+Denmark,DNK,May 2023,0,0
+Denmark,DNK,Jun 2023,0,0
+Denmark,DNK,Jul 2023,0,0
+Denmark,DNK,Aug 2023,0,0
+Denmark,DNK,Sep 2023,2,0
+Denmark,DNK,Oct 2023,0,0
+Denmark,DNK,Nov 2023,0,0
+Denmark,DNK,Dec 2023,0,0
+Denmark,DNK,Jan 2024,0,0
+Denmark,DNK,Feb 2024,0,0
+Denmark,DNK,Mar 2024,0,0
+Denmark,DNK,Apr 2024,0,0
+Denmark,DNK,May 2024,0,0
+Denmark,DNK,Jun 2024,0,0
+Denmark,DNK,Jul 2024,5,0
+Dominican Republic,DOM,Jul 2022,3,0
+Dominican Republic,DOM,Aug 2022,4,0
+Dominican Republic,DOM,Sep 2022,24,0
+Dominican Republic,DOM,Oct 2022,21,0
+Dominican Republic,DOM,Nov 2022,0,0
+Dominican Republic,DOM,Dec 2022,0,0
+Dominican Republic,DOM,Jan 2023,0,0
+Dominican Republic,DOM,Feb 2023,0,0
+Dominican Republic,DOM,Mar 2023,0,0
+Dominican Republic,DOM,Apr 2023,0,0
+Dominican Republic,DOM,May 2023,0,0
+Dominican Republic,DOM,Jun 2023,0,0
+Dominican Republic,DOM,Jul 2023,0,0
+Dominican Republic,DOM,Aug 2023,0,0
+Dominican Republic,DOM,Sep 2023,0,0
+Dominican Republic,DOM,Oct 2023,0,0
+Dominican Republic,DOM,Nov 2023,0,0
+Dominican Republic,DOM,Dec 2023,0,0
+Dominican Republic,DOM,Jan 2024,0,0
+Dominican Republic,DOM,Feb 2024,0,0
+Dominican Republic,DOM,Mar 2024,0,0
+Dominican Republic,DOM,Apr 2024,0,0
+Dominican Republic,DOM,May 2024,0,0
+Dominican Republic,DOM,Jun 2024,0,0
+Dominican Republic,DOM,Jul 2024,0,0
+Ecuador,ECU,May 2022,1,0
+Ecuador,ECU,Jun 2022,2,1
+Ecuador,ECU,Jul 2022,10,0
+Ecuador,ECU,Aug 2022,61,0
+Ecuador,ECU,Sep 2022,108,1
+Ecuador,ECU,Oct 2022,134,0
+Ecuador,ECU,Nov 2022,102,0
+Ecuador,ECU,Dec 2022,43,1
+Ecuador,ECU,Jan 2023,118,0
+Ecuador,ECU,Feb 2023,46,0
+Ecuador,ECU,Mar 2023,12,0
+Ecuador,ECU,Apr 2023,10,0
+Ecuador,ECU,May 2023,12,0
+Ecuador,ECU,Jun 2023,32,0
+Ecuador,ECU,Jul 2023,6,0
+Ecuador,ECU,Aug 2023,0,0
+Ecuador,ECU,Sep 2023,0,0
+Ecuador,ECU,Oct 2023,4,0
+Ecuador,ECU,Nov 2023,2,0
+Ecuador,ECU,Dec 2023,21,0
+Ecuador,ECU,Jan 2024,0,0
+Ecuador,ECU,Feb 2024,1,0
+Ecuador,ECU,Mar 2024,1,0
+Ecuador,ECU,Apr 2024,1,0
+Ecuador,ECU,May 2024,1,0
+Ecuador,ECU,Jun 2024,0,0
+Ecuador,ECU,Jul 2024,0,0
+Egypt,EGY,Sep 2022,1,0
+Egypt,EGY,Dec 2022,2,0
+El Salvador,SLV,Aug 2022,1,0
+El Salvador,SLV,Sep 2022,6,0
+El Salvador,SLV,Oct 2022,6,0
+El Salvador,SLV,Nov 2022,8,0
+El Salvador,SLV,Dec 2022,48,0
+El Salvador,SLV,Jan 2023,19,0
+El Salvador,SLV,Feb 2023,10,0
+El Salvador,SLV,Mar 2023,0,0
+El Salvador,SLV,Apr 2023,6,0
+El Salvador,SLV,May 2023,0,0
+El Salvador,SLV,Jun 2023,0,0
+El Salvador,SLV,Jul 2023,0,0
+El Salvador,SLV,Aug 2023,0,0
+El Salvador,SLV,Sep 2023,0,0
+El Salvador,SLV,Oct 2023,0,0
+El Salvador,SLV,Nov 2023,0,0
+El Salvador,SLV,Dec 2023,0,0
+El Salvador,SLV,Jan 2024,0,0
+El Salvador,SLV,Feb 2024,0,0
+El Salvador,SLV,Mar 2024,0,0
+El Salvador,SLV,Apr 2024,0,0
+El Salvador,SLV,May 2024,0,0
+El Salvador,SLV,Jun 2024,0,0
+El Salvador,SLV,Jul 2024,0,0
+Estonia,EST,Jun 2022,1,0
+Estonia,EST,Jul 2022,4,0
+Estonia,EST,Aug 2022,5,0
+Estonia,EST,Sep 2022,1,0
+Estonia,EST,Oct 2022,0,0
+Estonia,EST,Nov 2022,0,0
+Estonia,EST,Dec 2022,0,0
+Estonia,EST,Jan 2023,0,0
+Estonia,EST,Feb 2023,0,0
+Estonia,EST,Mar 2023,0,0
+Estonia,EST,Apr 2023,0,0
+Estonia,EST,May 2023,0,0
+Estonia,EST,Jun 2023,0,0
+Estonia,EST,Jul 2023,0,0
+Estonia,EST,Aug 2023,0,0
+Estonia,EST,Sep 2023,0,0
+Estonia,EST,Oct 2023,0,0
+Estonia,EST,Nov 2023,0,0
+Estonia,EST,Dec 2023,0,0
+Estonia,EST,Jan 2024,0,0
+Estonia,EST,Feb 2024,0,0
+Estonia,EST,Mar 2024,0,0
+Estonia,EST,Apr 2024,0,0
+Estonia,EST,May 2024,0,0
+Estonia,EST,Jun 2024,0,0
+Estonia,EST,Jul 2024,0,0
+Finland,FIN,May 2022,1,0
+Finland,FIN,Jun 2022,3,0
+Finland,FIN,Jul 2022,13,0
+Finland,FIN,Aug 2022,5,0
+Finland,FIN,Sep 2022,18,0
+Finland,FIN,Oct 2022,1,0
+Finland,FIN,Nov 2022,1,0
+Finland,FIN,Dec 2022,0,0
+Finland,FIN,Jan 2023,0,0
+Finland,FIN,Feb 2023,0,0
+Finland,FIN,Mar 2023,0,0
+Finland,FIN,Apr 2023,0,0
+Finland,FIN,May 2023,0,0
+Finland,FIN,Jun 2023,0,0
+Finland,FIN,Jul 2023,0,0
+Finland,FIN,Aug 2023,0,0
+Finland,FIN,Sep 2023,0,0
+Finland,FIN,Oct 2023,1,0
+Finland,FIN,Nov 2023,0,0
+Finland,FIN,Dec 2023,0,0
+Finland,FIN,Jan 2024,-1,0
+Finland,FIN,Feb 2024,1,0
+Finland,FIN,Mar 2024,0,0
+Finland,FIN,Apr 2024,0,0
+Finland,FIN,May 2024,0,0
+Finland,FIN,Jun 2024,0,0
+Finland,FIN,Jul 2024,0,0
+France,FRA,May 2022,17,0
+France,FRA,Jun 2022,481,0
+France,FRA,Jul 2022,1339,0
+France,FRA,Aug 2022,1710,0
+France,FRA,Sep 2022,452,0
+France,FRA,Oct 2022,95,0
+France,FRA,Nov 2022,13,0
+France,FRA,Dec 2022,7,0
+France,FRA,Jan 2023,14,0
+France,FRA,Feb 2023,0,0
+France,FRA,Mar 2023,0,0
+France,FRA,Apr 2023,16,0
+France,FRA,May 2023,2,0
+France,FRA,Jun 2023,0,0
+France,FRA,Jul 2023,1,0
+France,FRA,Aug 2023,3,0
+France,FRA,Sep 2023,8,0
+France,FRA,Oct 2023,3,0
+France,FRA,Nov 2023,3,0
+France,FRA,Dec 2023,7,0
+France,FRA,Jan 2024,8,0
+France,FRA,Feb 2024,16,0
+France,FRA,Mar 2024,11,0
+France,FRA,Apr 2024,12,0
+France,FRA,May 2024,31,0
+France,FRA,Jun 2024,23,0
+France,FRA,Jul 2024,11,0
+Georgia,GEO,Jun 2022,1,0
+Georgia,GEO,Jul 2022,0,0
+Georgia,GEO,Aug 2022,1,0
+Georgia,GEO,Sep 2022,0,0
+Georgia,GEO,Oct 2022,0,0
+Georgia,GEO,Nov 2022,0,0
+Georgia,GEO,Dec 2022,0,0
+Georgia,GEO,Jan 2023,0,0
+Georgia,GEO,Feb 2023,0,0
+Georgia,GEO,Mar 2023,0,0
+Georgia,GEO,Apr 2023,0,0
+Georgia,GEO,May 2023,0,0
+Georgia,GEO,Jun 2023,0,0
+Georgia,GEO,Jul 2023,0,0
+Georgia,GEO,Aug 2023,0,0
+Georgia,GEO,Sep 2023,0,0
+Georgia,GEO,Oct 2023,0,0
+Georgia,GEO,Nov 2023,0,0
+Georgia,GEO,Dec 2023,0,0
+Georgia,GEO,Jan 2024,0,0
+Georgia,GEO,Feb 2024,0,0
+Georgia,GEO,Mar 2024,0,0
+Georgia,GEO,Apr 2024,0,0
+Georgia,GEO,May 2024,0,0
+Georgia,GEO,Jun 2024,0,0
+Georgia,GEO,Jul 2024,0,0
+Germany,DEU,May 2022,33,0
+Germany,DEU,Jun 2022,936,0
+Germany,DEU,Jul 2022,1626,0
+Germany,DEU,Aug 2022,872,0
+Germany,DEU,Sep 2022,158,0
+Germany,DEU,Oct 2022,37,0
+Germany,DEU,Nov 2022,9,0
+Germany,DEU,Dec 2022,5,0
+Germany,DEU,Jan 2023,16,0
+Germany,DEU,Feb 2023,0,0
+Germany,DEU,Mar 2023,0,0
+Germany,DEU,Apr 2023,0,0
+Germany,DEU,May 2023,-1,0
+Germany,DEU,Jun 2023,0,0
+Germany,DEU,Jul 2023,0,0
+Germany,DEU,Aug 2023,3,0
+Germany,DEU,Sep 2023,14,0
+Germany,DEU,Oct 2023,49,0
+Germany,DEU,Nov 2023,22,0
+Germany,DEU,Dec 2023,21,0
+Germany,DEU,Jan 2024,7,0
+Germany,DEU,Feb 2024,9,0
+Germany,DEU,Mar 2024,14,0
+Germany,DEU,Apr 2024,11,0
+Germany,DEU,May 2024,6,0
+Germany,DEU,Jun 2024,10,0
+Germany,DEU,Jul 2024,29,0
+Ghana,GHA,Feb 2022,1,0
+Ghana,GHA,Mar 2022,1,0
+Ghana,GHA,Apr 2022,0,0
+Ghana,GHA,May 2022,0,0
+Ghana,GHA,Jun 2022,21,0
+Ghana,GHA,Jul 2022,28,1
+Ghana,GHA,Aug 2022,34,3
+Ghana,GHA,Sep 2022,15,0
+Ghana,GHA,Oct 2022,7,0
+Ghana,GHA,Nov 2022,3,0
+Ghana,GHA,Dec 2022,11,0
+Ghana,GHA,Jan 2023,2,0
+Ghana,GHA,Feb 2023,0,0
+Ghana,GHA,Mar 2023,1,0
+Ghana,GHA,Apr 2023,1,0
+Ghana,GHA,May 2023,2,0
+Ghana,GHA,Jun 2023,0,0
+Ghana,GHA,Jul 2023,0,0
+Ghana,GHA,Aug 2023,0,0
+Ghana,GHA,Sep 2023,0,0
+Ghana,GHA,Oct 2023,0,0
+Ghana,GHA,Nov 2023,0,0
+Ghana,GHA,Dec 2023,0,0
+Ghana,GHA,Jan 2024,0,0
+Ghana,GHA,Feb 2024,0,0
+Ghana,GHA,Mar 2024,0,0
+Ghana,GHA,Apr 2024,0,0
+Ghana,GHA,May 2024,0,0
+Ghana,GHA,Jun 2024,0,0
+Ghana,GHA,Jul 2024,0,0
+Gibraltar,GIB,Jun 2022,1,0
+Gibraltar,GIB,Jul 2022,4,0
+Gibraltar,GIB,Aug 2022,1,0
+Gibraltar,GIB,Sep 2022,0,0
+Gibraltar,GIB,Oct 2022,0,0
+Gibraltar,GIB,Nov 2022,0,0
+Gibraltar,GIB,Dec 2022,0,0
+Gibraltar,GIB,Jan 2023,0,0
+Gibraltar,GIB,Feb 2023,0,0
+Gibraltar,GIB,Mar 2023,0,0
+Gibraltar,GIB,Apr 2023,0,0
+Gibraltar,GIB,May 2023,0,0
+Gibraltar,GIB,Jun 2023,0,0
+Gibraltar,GIB,Jul 2023,0,0
+Gibraltar,GIB,Aug 2023,0,0
+Gibraltar,GIB,Sep 2023,0,0
+Gibraltar,GIB,Oct 2023,0,0
+Gibraltar,GIB,Nov 2023,0,0
+Gibraltar,GIB,Dec 2023,0,0
+Gibraltar,GIB,Jan 2024,0,0
+Gibraltar,GIB,Feb 2024,0,0
+Gibraltar,GIB,Mar 2024,0,0
+Gibraltar,GIB,Apr 2024,0,0
+Gibraltar,GIB,May 2024,0,0
+Gibraltar,GIB,Jun 2024,0,0
+Gibraltar,GIB,Jul 2024,0,0
+Greece,GRC,Jun 2022,3,0
+Greece,GRC,Jul 2022,29,0
+Greece,GRC,Aug 2022,24,0
+Greece,GRC,Sep 2022,24,0
+Greece,GRC,Oct 2022,4,0
+Greece,GRC,Nov 2022,1,0
+Greece,GRC,Dec 2022,0,0
+Greece,GRC,Jan 2023,1,0
+Greece,GRC,Feb 2023,0,0
+Greece,GRC,Mar 2023,1,0
+Greece,GRC,Apr 2023,0,0
+Greece,GRC,May 2023,1,0
+Greece,GRC,Jun 2023,0,0
+Greece,GRC,Jul 2023,0,0
+Greece,GRC,Aug 2023,0,0
+Greece,GRC,Sep 2023,0,0
+Greece,GRC,Oct 2023,0,0
+Greece,GRC,Nov 2023,1,0
+Greece,GRC,Dec 2023,0,0
+Greece,GRC,Jan 2024,2,0
+Greece,GRC,Feb 2024,0,0
+Greece,GRC,Mar 2024,1,0
+Greece,GRC,Apr 2024,6,0
+Greece,GRC,May 2024,1,0
+Greece,GRC,Jun 2024,0,0
+Greece,GRC,Jul 2024,0,0
+Greenland,GRL,Aug 2022,2,0
+Greenland,GRL,Sep 2022,0,0
+Greenland,GRL,Oct 2022,0,0
+Greenland,GRL,Nov 2022,0,0
+Greenland,GRL,Dec 2022,0,0
+Greenland,GRL,Jan 2023,0,0
+Greenland,GRL,Feb 2023,0,0
+Greenland,GRL,Mar 2023,0,0
+Greenland,GRL,Apr 2023,0,0
+Greenland,GRL,May 2023,0,0
+Greenland,GRL,Jun 2023,0,0
+Greenland,GRL,Jul 2023,0,0
+Greenland,GRL,Aug 2023,0,0
+Greenland,GRL,Sep 2023,0,0
+Greenland,GRL,Oct 2023,0,0
+Greenland,GRL,Nov 2023,0,0
+Greenland,GRL,Dec 2023,0,0
+Greenland,GRL,Jan 2024,0,0
+Greenland,GRL,Feb 2024,0,0
+Greenland,GRL,Mar 2024,0,0
+Greenland,GRL,Apr 2024,0,0
+Greenland,GRL,May 2024,0,0
+Greenland,GRL,Jun 2024,0,0
+Greenland,GRL,Jul 2024,0,0
+Guadeloupe,GLP,Aug 2022,1,0
+Guadeloupe,GLP,Sep 2022,0,0
+Guadeloupe,GLP,Oct 2022,0,0
+Guadeloupe,GLP,Nov 2022,0,0
+Guadeloupe,GLP,Dec 2022,0,0
+Guadeloupe,GLP,Jan 2023,0,0
+Guadeloupe,GLP,Feb 2023,0,0
+Guadeloupe,GLP,Mar 2023,0,0
+Guadeloupe,GLP,Apr 2023,0,0
+Guadeloupe,GLP,May 2023,0,0
+Guadeloupe,GLP,Jun 2023,0,0
+Guadeloupe,GLP,Jul 2023,0,0
+Guadeloupe,GLP,Aug 2023,0,0
+Guadeloupe,GLP,Sep 2023,0,0
+Guadeloupe,GLP,Oct 2023,0,0
+Guadeloupe,GLP,Nov 2023,0,0
+Guadeloupe,GLP,Dec 2023,0,0
+Guadeloupe,GLP,Jan 2024,0,0
+Guadeloupe,GLP,Feb 2024,0,0
+Guadeloupe,GLP,Mar 2024,0,0
+Guadeloupe,GLP,Apr 2024,0,0
+Guadeloupe,GLP,May 2024,0,0
+Guadeloupe,GLP,Jun 2024,0,0
+Guadeloupe,GLP,Jul 2024,0,0
+Guam,GUM,Sep 2022,1,0
+Guatemala,GTM,Aug 2022,10,0
+Guatemala,GTM,Sep 2022,17,0
+Guatemala,GTM,Oct 2022,47,0
+Guatemala,GTM,Nov 2022,118,0
+Guatemala,GTM,Dec 2022,67,0
+Guatemala,GTM,Jan 2023,101,0
+Guatemala,GTM,Feb 2023,30,0
+Guatemala,GTM,Mar 2023,14,0
+Guatemala,GTM,Apr 2023,0,1
+Guatemala,GTM,May 2023,1,0
+Guatemala,GTM,Jun 2023,0,0
+Guatemala,GTM,Jul 2023,0,0
+Guatemala,GTM,Aug 2023,0,0
+Guatemala,GTM,Sep 2023,0,0
+Guatemala,GTM,Oct 2023,0,0
+Guatemala,GTM,Nov 2023,0,0
+Guatemala,GTM,Dec 2023,0,0
+Guatemala,GTM,Jan 2024,0,0
+Guatemala,GTM,Feb 2024,0,0
+Guatemala,GTM,Mar 2024,0,0
+Guatemala,GTM,Apr 2024,0,0
+Guatemala,GTM,May 2024,0,0
+Guatemala,GTM,Jun 2024,0,0
+Guatemala,GTM,Jul 2024,0,0
+Guyana,GUY,Aug 2022,2,0
+Guyana,GUY,Sep 2022,0,0
+Guyana,GUY,Oct 2022,0,0
+Guyana,GUY,Nov 2022,0,0
+Guyana,GUY,Dec 2022,0,0
+Guyana,GUY,Jan 2023,0,0
+Guyana,GUY,Feb 2023,0,0
+Guyana,GUY,Mar 2023,0,0
+Guyana,GUY,Apr 2023,0,0
+Guyana,GUY,May 2023,0,0
+Guyana,GUY,Jun 2023,0,0
+Guyana,GUY,Jul 2023,0,0
+Guyana,GUY,Aug 2023,0,0
+Guyana,GUY,Sep 2023,0,0
+Guyana,GUY,Oct 2023,0,0
+Guyana,GUY,Nov 2023,0,0
+Guyana,GUY,Dec 2023,0,0
+Guyana,GUY,Jan 2024,0,0
+Guyana,GUY,Feb 2024,0,0
+Guyana,GUY,Mar 2024,0,0
+Guyana,GUY,Apr 2024,0,0
+Guyana,GUY,May 2024,0,0
+Guyana,GUY,Jun 2024,0,0
+Guyana,GUY,Jul 2024,0,0
+Honduras,HND,Aug 2022,4,0
+Honduras,HND,Sep 2022,2,0
+Honduras,HND,Oct 2022,1,0
+Honduras,HND,Nov 2022,4,0
+Honduras,HND,Dec 2022,0,0
+Honduras,HND,Jan 2023,2,0
+Honduras,HND,Feb 2023,8,0
+Honduras,HND,Mar 2023,19,0
+Honduras,HND,Apr 2023,2,1
+Honduras,HND,May 2023,2,0
+Honduras,HND,Jun 2023,0,0
+Honduras,HND,Jul 2023,0,0
+Honduras,HND,Aug 2023,0,0
+Honduras,HND,Sep 2023,0,0
+Honduras,HND,Oct 2023,0,0
+Honduras,HND,Nov 2023,0,0
+Honduras,HND,Dec 2023,0,0
+Honduras,HND,Jan 2024,0,0
+Honduras,HND,Feb 2024,0,0
+Honduras,HND,Mar 2024,0,0
+Honduras,HND,Apr 2024,0,0
+Honduras,HND,May 2024,0,0
+Honduras,HND,Jun 2024,0,0
+Honduras,HND,Jul 2024,0,0
+Hungary,HUN,May 2022,1,0
+Hungary,HUN,Jun 2022,17,0
+Hungary,HUN,Jul 2022,19,0
+Hungary,HUN,Aug 2022,33,0
+Hungary,HUN,Sep 2022,7,0
+Hungary,HUN,Oct 2022,3,0
+Hungary,HUN,Nov 2022,0,0
+Hungary,HUN,Dec 2022,0,0
+Hungary,HUN,Jan 2023,0,0
+Hungary,HUN,Feb 2023,0,0
+Hungary,HUN,Mar 2023,0,0
+Hungary,HUN,Apr 2023,0,0
+Hungary,HUN,May 2023,0,0
+Hungary,HUN,Jun 2023,0,0
+Hungary,HUN,Jul 2023,0,0
+Hungary,HUN,Aug 2023,0,0
+Hungary,HUN,Sep 2023,0,0
+Hungary,HUN,Oct 2023,1,0
+Hungary,HUN,Nov 2023,0,0
+Hungary,HUN,Dec 2023,1,0
+Hungary,HUN,Jan 2024,1,0
+Hungary,HUN,Feb 2024,0,0
+Hungary,HUN,Mar 2024,0,0
+Hungary,HUN,Apr 2024,0,0
+Hungary,HUN,May 2024,0,0
+Hungary,HUN,Jun 2024,2,0
+Hungary,HUN,Jul 2024,0,0
+Iceland,ISL,Jun 2022,4,0
+Iceland,ISL,Jul 2022,5,0
+Iceland,ISL,Aug 2022,3,0
+Iceland,ISL,Sep 2022,2,0
+Iceland,ISL,Oct 2022,2,0
+Iceland,ISL,Nov 2022,0,0
+Iceland,ISL,Dec 2022,0,0
+Iceland,ISL,Jan 2023,0,0
+Iceland,ISL,Feb 2023,0,0
+Iceland,ISL,Mar 2023,0,0
+Iceland,ISL,Apr 2023,0,0
+Iceland,ISL,May 2023,0,0
+Iceland,ISL,Jun 2023,0,0
+Iceland,ISL,Jul 2023,0,0
+Iceland,ISL,Aug 2023,0,0
+Iceland,ISL,Sep 2023,1,0
+Iceland,ISL,Oct 2023,0,0
+Iceland,ISL,Nov 2023,0,0
+Iceland,ISL,Dec 2023,0,0
+Iceland,ISL,Jan 2024,0,0
+Iceland,ISL,Feb 2024,0,0
+Iceland,ISL,Mar 2024,0,0
+Iceland,ISL,Apr 2024,0,0
+Iceland,ISL,May 2024,0,0
+Iceland,ISL,Jun 2024,0,0
+Iceland,ISL,Jul 2024,0,0
+India,IND,Jul 2022,4,0
+India,IND,Aug 2022,6,1
+India,IND,Sep 2022,2,0
+India,IND,Oct 2022,5,0
+India,IND,Nov 2022,0,0
+India,IND,Dec 2022,3,0
+India,IND,Jan 2023,2,0
+India,IND,Feb 2023,0,0
+India,IND,Mar 2023,0,0
+India,IND,Apr 2023,0,0
+India,IND,May 2023,0,0
+India,IND,Jun 2023,0,0
+India,IND,Jul 2023,0,0
+India,IND,Aug 2023,0,0
+India,IND,Sep 2023,5,0
+India,IND,Oct 2023,0,0
+India,IND,Nov 2023,0,0
+India,IND,Dec 2023,0,0
+India,IND,Jan 2024,0,0
+India,IND,Feb 2024,0,0
+India,IND,Mar 2024,0,0
+India,IND,Apr 2024,0,0
+India,IND,May 2024,0,0
+India,IND,Jun 2024,0,0
+India,IND,Jul 2024,0,0
+Indonesia,IDN,Aug 2022,1,0
+Indonesia,IDN,Sep 2022,0,0
+Indonesia,IDN,Oct 2022,0,0
+Indonesia,IDN,Nov 2022,0,0
+Indonesia,IDN,Dec 2022,0,0
+Indonesia,IDN,Jan 2023,0,0
+Indonesia,IDN,Feb 2023,0,0
+Indonesia,IDN,Mar 2023,0,0
+Indonesia,IDN,Apr 2023,0,0
+Indonesia,IDN,May 2023,0,0
+Indonesia,IDN,Jun 2023,0,0
+Indonesia,IDN,Jul 2023,0,0
+Indonesia,IDN,Aug 2023,0,0
+Indonesia,IDN,Sep 2023,0,0
+Indonesia,IDN,Oct 2023,29,0
+Indonesia,IDN,Nov 2023,30,0
+Indonesia,IDN,Dec 2023,13,0
+Indonesia,IDN,Jan 2024,7,0
+Indonesia,IDN,Feb 2024,4,0
+Indonesia,IDN,Mar 2024,0,0
+Indonesia,IDN,Apr 2024,2,0
+Indonesia,IDN,May 2024,1,0
+Indonesia,IDN,Jun 2024,1,0
+Indonesia,IDN,Jul 2024,0,0
+Iran,IRN,Aug 2022,1,0
+Ireland,IRL,May 2022,9,0
+Ireland,IRL,Jun 2022,30,0
+Ireland,IRL,Jul 2022,46,0
+Ireland,IRL,Aug 2022,59,0
+Ireland,IRL,Sep 2022,39,0
+Ireland,IRL,Oct 2022,23,0
+Ireland,IRL,Nov 2022,14,0
+Ireland,IRL,Dec 2022,5,0
+Ireland,IRL,Jan 2023,3,0
+Ireland,IRL,Feb 2023,0,0
+Ireland,IRL,Mar 2023,0,0
+Ireland,IRL,Apr 2023,0,0
+Ireland,IRL,May 2023,1,0
+Ireland,IRL,Jun 2023,0,0
+Ireland,IRL,Jul 2023,0,0
+Ireland,IRL,Aug 2023,0,0
+Ireland,IRL,Sep 2023,10,0
+Ireland,IRL,Oct 2023,3,0
+Ireland,IRL,Nov 2023,2,0
+Ireland,IRL,Dec 2023,0,0
+Ireland,IRL,Jan 2024,0,0
+Ireland,IRL,Feb 2024,1,0
+Ireland,IRL,Mar 2024,0,0
+Ireland,IRL,Apr 2024,1,0
+Ireland,IRL,May 2024,1,0
+Ireland,IRL,Jun 2024,2,0
+Ireland,IRL,Jul 2024,0,0
+Israel,ISR,May 2022,2,0
+Israel,ISR,Jun 2022,40,0
+Israel,ISR,Jul 2022,79,0
+Israel,ISR,Aug 2022,113,0
+Israel,ISR,Sep 2022,16,0
+Israel,ISR,Oct 2022,12,0
+Israel,ISR,Nov 2022,0,0
+Israel,ISR,Dec 2022,0,0
+Israel,ISR,Jan 2023,0,0
+Israel,ISR,Feb 2023,0,0
+Israel,ISR,Mar 2023,0,0
+Israel,ISR,Apr 2023,0,0
+Israel,ISR,May 2023,0,0
+Israel,ISR,Jun 2023,1,0
+Israel,ISR,Jul 2023,0,0
+Israel,ISR,Aug 2023,0,0
+Israel,ISR,Sep 2023,0,0
+Israel,ISR,Oct 2023,-1,0
+Israel,ISR,Nov 2023,0,0
+Israel,ISR,Dec 2023,13,0
+Israel,ISR,Jan 2024,0,0
+Israel,ISR,Feb 2024,18,0
+Israel,ISR,Mar 2024,0,0
+Israel,ISR,Apr 2024,1,0
+Israel,ISR,May 2024,18,0
+Israel,ISR,Jun 2024,2,0
+Israel,ISR,Jul 2024,3,0
+Italy,ITA,May 2022,14,0
+Italy,ITA,Jun 2022,145,0
+Italy,ITA,Jul 2022,267,0
+Italy,ITA,Aug 2022,334,0
+Italy,ITA,Sep 2022,90,0
+Italy,ITA,Oct 2022,44,0
+Italy,ITA,Nov 2022,26,0
+Italy,ITA,Dec 2022,18,0
+Italy,ITA,Jan 2023,16,0
+Italy,ITA,Feb 2023,3,0
+Italy,ITA,Mar 2023,0,0
+Italy,ITA,Apr 2023,0,0
+Italy,ITA,May 2023,0,0
+Italy,ITA,Jun 2023,0,0
+Italy,ITA,Jul 2023,0,0
+Italy,ITA,Aug 2023,1,0
+Italy,ITA,Sep 2023,5,0
+Italy,ITA,Oct 2023,3,0
+Italy,ITA,Nov 2023,6,0
+Italy,ITA,Dec 2023,17,0
+Italy,ITA,Jan 2024,26,0
+Italy,ITA,Feb 2024,13,0
+Italy,ITA,Mar 2024,14,0
+Italy,ITA,Apr 2024,1,0
+Italy,ITA,May 2024,4,0
+Italy,ITA,Jun 2024,2,0
+Italy,ITA,Jul 2024,7,0
+Jamaica,JAM,Jul 2022,2,0
+Jamaica,JAM,Aug 2022,5,0
+Jamaica,JAM,Sep 2022,7,0
+Jamaica,JAM,Oct 2022,2,0
+Jamaica,JAM,Nov 2022,2,0
+Jamaica,JAM,Dec 2022,0,0
+Jamaica,JAM,Jan 2023,0,0
+Jamaica,JAM,Feb 2023,0,0
+Jamaica,JAM,Mar 2023,3,0
+Jamaica,JAM,Apr 2023,0,0
+Jamaica,JAM,May 2023,0,0
+Jamaica,JAM,Jun 2023,0,0
+Jamaica,JAM,Jul 2023,0,0
+Jamaica,JAM,Aug 2023,0,0
+Jamaica,JAM,Sep 2023,0,0
+Jamaica,JAM,Oct 2023,0,0
+Jamaica,JAM,Nov 2023,0,0
+Jamaica,JAM,Dec 2023,0,0
+Jamaica,JAM,Jan 2024,0,0
+Jamaica,JAM,Feb 2024,0,0
+Jamaica,JAM,Mar 2024,0,0
+Jamaica,JAM,Apr 2024,0,0
+Jamaica,JAM,May 2024,0,0
+Jamaica,JAM,Jun 2024,0,0
+Jamaica,JAM,Jul 2024,0,0
+Japan,JPN,Jan 2022,0,0
+Japan,JPN,Jul 2022,2,0
+Japan,JPN,Aug 2022,2,0
+Japan,JPN,Sep 2022,2,0
+Japan,JPN,Oct 2022,1,0
+Japan,JPN,Dec 2022,1,0
+Japan,JPN,Jan 2023,7,0
+Japan,JPN,Feb 2023,7,0
+Japan,JPN,Mar 2023,60,0
+Japan,JPN,Apr 2023,39,0
+Japan,JPN,May 2023,42,0
+Japan,JPN,Jun 2023,23,0
+Japan,JPN,Jul 2023,8,0
+Japan,JPN,Aug 2023,1,0
+Japan,JPN,Sep 2023,11,0
+Japan,JPN,Oct 2023,7,0
+Japan,JPN,Nov 2023,12,0
+Japan,JPN,Dec 2023,7,1
+Japan,JPN,Jan 2024,2,0
+Japan,JPN,Feb 2024,6,0
+Japan,JPN,Mar 2024,2,0
+Japan,JPN,Apr 2024,3,0
+Japan,JPN,May 2024,2,0
+Jordan,JOR,Sep 2022,1,0
+Kenya,KEN,Jul 2024,1,0
+Lao People's Democratic Republic,LAO,Sep 2023,1,0
+Latvia,LVA,Jun 2022,2,0
+Latvia,LVA,Jul 2022,1,0
+Latvia,LVA,Aug 2022,1,0
+Latvia,LVA,Sep 2022,1,0
+Latvia,LVA,Oct 2022,1,0
+Latvia,LVA,Nov 2022,0,0
+Latvia,LVA,Dec 2022,0,0
+Latvia,LVA,Jan 2023,0,0
+Latvia,LVA,Feb 2023,0,0
+Latvia,LVA,Mar 2023,0,0
+Latvia,LVA,Apr 2023,0,0
+Latvia,LVA,May 2023,0,0
+Latvia,LVA,Jun 2023,0,0
+Latvia,LVA,Jul 2023,0,0
+Latvia,LVA,Aug 2023,0,0
+Latvia,LVA,Sep 2023,0,0
+Latvia,LVA,Oct 2023,0,0
+Latvia,LVA,Nov 2023,0,0
+Latvia,LVA,Dec 2023,0,0
+Latvia,LVA,Jan 2024,0,0
+Latvia,LVA,Feb 2024,0,0
+Latvia,LVA,Mar 2024,0,0
+Latvia,LVA,Apr 2024,0,0
+Latvia,LVA,May 2024,0,0
+Latvia,LVA,Jun 2024,0,0
+Latvia,LVA,Jul 2024,0,0
+Lebanon,LBN,Jun 2022,1,0
+Lebanon,LBN,Jul 2022,3,0
+Lebanon,LBN,Aug 2022,2,0
+Lebanon,LBN,Sep 2022,5,0
+Lebanon,LBN,Oct 2022,7,0
+Lebanon,LBN,Nov 2022,6,0
+Lebanon,LBN,Jan 2023,2,0
+Lebanon,LBN,Mar 2023,1,0
+Liberia,LBR,Jul 2022,1,0
+Liberia,LBR,Aug 2022,2,0
+Liberia,LBR,Sep 2022,0,0
+Liberia,LBR,Oct 2022,0,0
+Liberia,LBR,Nov 2022,1,0
+Liberia,LBR,Dec 2022,2,0
+Liberia,LBR,Jan 2023,1,0
+Liberia,LBR,Feb 2023,1,0
+Liberia,LBR,Mar 2023,2,0
+Liberia,LBR,Apr 2023,2,0
+Liberia,LBR,May 2023,1,0
+Liberia,LBR,Jun 2023,0,0
+Liberia,LBR,Jul 2023,0,0
+Liberia,LBR,Aug 2023,0,0
+Liberia,LBR,Sep 2023,0,0
+Liberia,LBR,Oct 2023,0,0
+Liberia,LBR,Nov 2023,3,0
+Liberia,LBR,Dec 2023,2,0
+Liberia,LBR,Jan 2024,1,0
+Liberia,LBR,Feb 2024,2,0
+Liberia,LBR,Mar 2024,2,0
+Liberia,LBR,Apr 2024,0,0
+Liberia,LBR,May 2024,0,0
+Liberia,LBR,Jun 2024,0,0
+Liberia,LBR,Jul 2024,0,0
+Lithuania,LTU,Aug 2022,5,0
+Lithuania,LTU,Sep 2022,0,0
+Lithuania,LTU,Oct 2022,0,0
+Lithuania,LTU,Nov 2022,0,0
+Lithuania,LTU,Dec 2022,0,0
+Lithuania,LTU,Jan 2023,0,0
+Lithuania,LTU,Feb 2023,0,0
+Lithuania,LTU,Mar 2023,0,0
+Lithuania,LTU,Apr 2023,0,0
+Lithuania,LTU,May 2023,0,0
+Lithuania,LTU,Jun 2023,0,0
+Lithuania,LTU,Jul 2023,0,0
+Lithuania,LTU,Aug 2023,0,0
+Lithuania,LTU,Sep 2023,0,0
+Lithuania,LTU,Oct 2023,0,0
+Lithuania,LTU,Nov 2023,0,0
+Lithuania,LTU,Dec 2023,0,0
+Lithuania,LTU,Jan 2024,0,0
+Lithuania,LTU,Feb 2024,0,0
+Lithuania,LTU,Mar 2024,0,0
+Lithuania,LTU,Apr 2024,0,0
+Lithuania,LTU,May 2024,0,0
+Lithuania,LTU,Jun 2024,0,0
+Lithuania,LTU,Jul 2024,0,0
+Luxembourg,LUX,Jun 2022,3,0
+Luxembourg,LUX,Jul 2022,20,0
+Luxembourg,LUX,Aug 2022,30,0
+Luxembourg,LUX,Sep 2022,2,0
+Luxembourg,LUX,Oct 2022,0,0
+Luxembourg,LUX,Nov 2022,2,0
+Luxembourg,LUX,Dec 2022,0,0
+Luxembourg,LUX,Jan 2023,0,0
+Luxembourg,LUX,Feb 2023,0,0
+Luxembourg,LUX,Mar 2023,0,0
+Luxembourg,LUX,Apr 2023,0,0
+Luxembourg,LUX,May 2023,0,0
+Luxembourg,LUX,Jun 2023,0,0
+Luxembourg,LUX,Jul 2023,0,0
+Luxembourg,LUX,Aug 2023,2,0
+Luxembourg,LUX,Sep 2023,0,0
+Luxembourg,LUX,Oct 2023,1,0
+Luxembourg,LUX,Nov 2023,0,0
+Luxembourg,LUX,Dec 2023,0,0
+Luxembourg,LUX,Jan 2024,0,0
+Luxembourg,LUX,Feb 2024,1,0
+Luxembourg,LUX,Mar 2024,0,0
+Luxembourg,LUX,Apr 2024,0,0
+Luxembourg,LUX,May 2024,0,0
+Luxembourg,LUX,Jun 2024,0,0
+Luxembourg,LUX,Jul 2024,0,0
+Malaysia,MYS,Aug 2023,2,0
+Malaysia,MYS,Oct 2023,2,0
+Malaysia,MYS,Nov 2023,5,0
+Malta,MLT,May 2022,1,0
+Malta,MLT,Jun 2022,5,0
+Malta,MLT,Jul 2022,11,0
+Malta,MLT,Aug 2022,14,0
+Malta,MLT,Sep 2022,2,0
+Malta,MLT,Oct 2022,0,0
+Malta,MLT,Nov 2022,0,0
+Malta,MLT,Dec 2022,0,0
+Malta,MLT,Jan 2023,0,0
+Malta,MLT,Feb 2023,0,0
+Malta,MLT,Mar 2023,1,0
+Malta,MLT,Apr 2023,0,0
+Malta,MLT,May 2023,0,0
+Malta,MLT,Jun 2023,0,0
+Malta,MLT,Jul 2023,0,0
+Malta,MLT,Aug 2023,0,0
+Malta,MLT,Sep 2023,0,0
+Malta,MLT,Oct 2023,1,0
+Malta,MLT,Nov 2023,0,0
+Malta,MLT,Dec 2023,0,0
+Malta,MLT,Jan 2024,0,0
+Malta,MLT,Feb 2024,0,0
+Malta,MLT,Mar 2024,0,0
+Malta,MLT,Apr 2024,0,0
+Malta,MLT,May 2024,0,0
+Malta,MLT,Jun 2024,0,0
+Malta,MLT,Jul 2024,0,0
+Martinique,MTQ,Jul 2022,1,0
+Martinique,MTQ,Aug 2022,0,0
+Martinique,MTQ,Sep 2022,0,0
+Martinique,MTQ,Oct 2022,0,0
+Martinique,MTQ,Nov 2022,0,0
+Martinique,MTQ,Dec 2022,0,0
+Martinique,MTQ,Jan 2023,6,0
+Martinique,MTQ,Feb 2023,0,0
+Martinique,MTQ,Mar 2023,0,0
+Martinique,MTQ,Apr 2023,0,0
+Martinique,MTQ,May 2023,0,0
+Martinique,MTQ,Jun 2023,0,0
+Martinique,MTQ,Jul 2023,0,0
+Martinique,MTQ,Aug 2023,0,0
+Martinique,MTQ,Sep 2023,0,0
+Martinique,MTQ,Oct 2023,0,0
+Martinique,MTQ,Nov 2023,0,0
+Martinique,MTQ,Dec 2023,0,0
+Martinique,MTQ,Jan 2024,0,0
+Martinique,MTQ,Feb 2024,0,0
+Martinique,MTQ,Mar 2024,0,0
+Martinique,MTQ,Apr 2024,0,0
+Martinique,MTQ,May 2024,0,0
+Martinique,MTQ,Jun 2024,0,0
+Martinique,MTQ,Jul 2024,0,0
+Mexico,MEX,May 2022,4,0
+Mexico,MEX,Jun 2022,35,0
+Mexico,MEX,Jul 2022,184,1
+Mexico,MEX,Aug 2022,1026,3
+Mexico,MEX,Sep 2022,1133,9
+Mexico,MEX,Oct 2022,774,4
+Mexico,MEX,Nov 2022,474,8
+Mexico,MEX,Dec 2022,143,0
+Mexico,MEX,Jan 2023,155,3
+Mexico,MEX,Feb 2023,53,3
+Mexico,MEX,Mar 2023,24,1
+Mexico,MEX,Apr 2023,16,2
+Mexico,MEX,May 2023,10,0
+Mexico,MEX,Jun 2023,13,0
+Mexico,MEX,Jul 2023,9,0
+Mexico,MEX,Aug 2023,9,0
+Mexico,MEX,Sep 2023,3,0
+Mexico,MEX,Oct 2023,5,0
+Mexico,MEX,Nov 2023,9,0
+Mexico,MEX,Dec 2023,0,0
+Mexico,MEX,Jan 2024,4,0
+Mexico,MEX,Feb 2024,1,0
+Mexico,MEX,Mar 2024,4,0
+Mexico,MEX,Apr 2024,9,0
+Mexico,MEX,May 2024,17,0
+Mexico,MEX,Jun 2024,11,0
+Mexico,MEX,Jul 2024,7,0
+Monaco,MCO,Aug 2022,3,0
+Monaco,MCO,Sep 2022,0,0
+Monaco,MCO,Oct 2022,0,0
+Monaco,MCO,Nov 2022,0,0
+Monaco,MCO,Dec 2022,0,0
+Monaco,MCO,Jan 2023,0,0
+Monaco,MCO,Feb 2023,0,0
+Monaco,MCO,Mar 2023,0,0
+Monaco,MCO,Apr 2023,0,0
+Monaco,MCO,May 2023,0,0
+Monaco,MCO,Jun 2023,0,0
+Monaco,MCO,Jul 2023,0,0
+Monaco,MCO,Aug 2023,0,0
+Monaco,MCO,Sep 2023,0,0
+Monaco,MCO,Oct 2023,0,0
+Monaco,MCO,Nov 2023,0,0
+Monaco,MCO,Dec 2023,0,0
+Monaco,MCO,Jan 2024,0,0
+Monaco,MCO,Feb 2024,0,0
+Monaco,MCO,Mar 2024,0,0
+Monaco,MCO,Apr 2024,0,0
+Monaco,MCO,May 2024,0,0
+Monaco,MCO,Jun 2024,0,0
+Monaco,MCO,Jul 2024,0,0
+Montenegro,MNE,Jul 2022,1,0
+Montenegro,MNE,Aug 2022,1,0
+Montenegro,MNE,Sep 2022,0,0
+Montenegro,MNE,Oct 2022,0,0
+Montenegro,MNE,Nov 2022,0,0
+Montenegro,MNE,Dec 2022,0,0
+Montenegro,MNE,Jan 2023,0,0
+Montenegro,MNE,Feb 2023,0,0
+Montenegro,MNE,Mar 2023,0,0
+Montenegro,MNE,Apr 2023,0,0
+Montenegro,MNE,May 2023,0,0
+Montenegro,MNE,Jun 2023,0,0
+Montenegro,MNE,Jul 2023,0,0
+Montenegro,MNE,Aug 2023,0,0
+Montenegro,MNE,Sep 2023,0,0
+Montenegro,MNE,Oct 2023,0,0
+Montenegro,MNE,Nov 2023,0,0
+Montenegro,MNE,Dec 2023,0,0
+Montenegro,MNE,Jan 2024,0,0
+Montenegro,MNE,Feb 2024,0,0
+Montenegro,MNE,Mar 2024,0,0
+Montenegro,MNE,Apr 2024,0,0
+Montenegro,MNE,May 2024,0,0
+Montenegro,MNE,Jun 2024,0,0
+Montenegro,MNE,Jul 2024,0,0
+Morocco,MAR,Jun 2022,1,0
+Morocco,MAR,Aug 2022,2,0
+Mozambique,MOZ,Oct 2022,1,1
+Mozambique,MOZ,Nov 2022,0,0
+Mozambique,MOZ,Dec 2022,0,0
+Mozambique,MOZ,Jan 2023,0,0
+Mozambique,MOZ,Feb 2023,0,0
+Mozambique,MOZ,Mar 2023,0,0
+Mozambique,MOZ,Apr 2023,0,0
+Mozambique,MOZ,May 2023,0,0
+Mozambique,MOZ,Jun 2023,0,0
+Mozambique,MOZ,Jul 2023,0,0
+Mozambique,MOZ,Aug 2023,0,0
+Mozambique,MOZ,Sep 2023,0,0
+Mozambique,MOZ,Oct 2023,0,0
+Mozambique,MOZ,Nov 2023,0,0
+Mozambique,MOZ,Dec 2023,0,0
+Mozambique,MOZ,Jan 2024,0,0
+Mozambique,MOZ,Feb 2024,0,0
+Mozambique,MOZ,Mar 2024,0,0
+Mozambique,MOZ,Apr 2024,0,0
+Mozambique,MOZ,May 2024,0,0
+Mozambique,MOZ,Jun 2024,0,0
+Mozambique,MOZ,Jul 2024,0,0
+Nepal,NPL,Jun 2023,1,0
+Nepal,NPL,Jul 2023,0,0
+Nepal,NPL,Aug 2023,0,0
+Nepal,NPL,Sep 2023,0,0
+Nepal,NPL,Oct 2023,0,0
+Nepal,NPL,Nov 2023,0,0
+Nepal,NPL,Dec 2023,0,0
+Nepal,NPL,Jan 2024,0,0
+Nepal,NPL,Feb 2024,0,0
+Nepal,NPL,Mar 2024,0,0
+Nepal,NPL,Apr 2024,0,0
+Nepal,NPL,May 2024,0,0
+Nepal,NPL,Jun 2024,0,0
+Nepal,NPL,Jul 2024,0,0
+Netherlands,NLD,May 2022,26,0
+Netherlands,NLD,Jun 2022,231,0
+Netherlands,NLD,Jul 2022,622,0
+Netherlands,NLD,Aug 2022,281,0
+Netherlands,NLD,Sep 2022,63,0
+Netherlands,NLD,Oct 2022,12,0
+Netherlands,NLD,Nov 2022,16,0
+Netherlands,NLD,Dec 2022,5,0
+Netherlands,NLD,Jan 2023,4,0
+Netherlands,NLD,Feb 2023,1,0
+Netherlands,NLD,Mar 2023,1,0
+Netherlands,NLD,Apr 2023,1,0
+Netherlands,NLD,May 2023,1,0
+Netherlands,NLD,Jun 2023,1,0
+Netherlands,NLD,Jul 2023,0,0
+Netherlands,NLD,Aug 2023,2,0
+Netherlands,NLD,Sep 2023,7,0
+Netherlands,NLD,Oct 2023,4,0
+Netherlands,NLD,Nov 2023,7,0
+Netherlands,NLD,Dec 2023,2,0
+Netherlands,NLD,Jan 2024,5,0
+Netherlands,NLD,Feb 2024,7,0
+Netherlands,NLD,Mar 2024,0,0
+Netherlands,NLD,Apr 2024,2,0
+Netherlands,NLD,May 2024,1,0
+Netherlands,NLD,Jun 2024,2,0
+Netherlands,NLD,Jul 2024,4,0
+New Caledonia,NCL,Jul 2022,1,0
+New Caledonia,NCL,Jul 2023,0,0
+New Zealand,NZL,Jul 2022,2,0
+New Zealand,NZL,Aug 2022,2,0
+New Zealand,NZL,Sep 2022,5,0
+New Zealand,NZL,Oct 2022,19,0
+New Zealand,NZL,Nov 2022,8,0
+New Zealand,NZL,Dec 2022,4,0
+New Zealand,NZL,Jan 2023,1,0
+New Zealand,NZL,Feb 2023,1,0
+New Zealand,NZL,Jan 2024,8,0
+New Zealand,NZL,May 2024,1,0
+New Zealand,NZL,Jul 2024,2,0
+Nigeria,NGA,Jan 2022,3,0
+Nigeria,NGA,Feb 2022,1,0
+Nigeria,NGA,Mar 2022,6,0
+Nigeria,NGA,Apr 2022,4,1
+Nigeria,NGA,May 2022,7,0
+Nigeria,NGA,Jun 2022,42,1
+Nigeria,NGA,Jul 2022,94,1
+Nigeria,NGA,Aug 2022,120,3
+Nigeria,NGA,Sep 2022,179,1
+Nigeria,NGA,Oct 2022,148,0
+Nigeria,NGA,Nov 2022,76,0
+Nigeria,NGA,Dec 2022,76,0
+Nigeria,NGA,Jan 2023,34,1
+Nigeria,NGA,Feb 2023,21,1
+Nigeria,NGA,Mar 2023,18,0
+Nigeria,NGA,Apr 2023,6,0
+Nigeria,NGA,May 2023,7,0
+Nigeria,NGA,Jun 2023,1,0
+Nigeria,NGA,Jul 2023,3,0
+Nigeria,NGA,Aug 2023,0,0
+Nigeria,NGA,Sep 2023,0,0
+Nigeria,NGA,Oct 2023,0,0
+Nigeria,NGA,Nov 2023,9,0
+Nigeria,NGA,Dec 2023,6,0
+Nigeria,NGA,Jan 2024,2,0
+Nigeria,NGA,Feb 2024,4,0
+Nigeria,NGA,Mar 2024,12,0
+Nigeria,NGA,Apr 2024,4,0
+Nigeria,NGA,May 2024,4,0
+Nigeria,NGA,Jun 2024,8,0
+Nigeria,NGA,Jul 2024,4,0
+Norway,NOR,May 2022,1,0
+Norway,NOR,Jun 2022,14,0
+Norway,NOR,Jul 2022,36,0
+Norway,NOR,Aug 2022,29,0
+Norway,NOR,Sep 2022,12,0
+Norway,NOR,Oct 2022,1,0
+Norway,NOR,Nov 2022,0,0
+Norway,NOR,Dec 2022,0,0
+Norway,NOR,Jan 2023,2,0
+Norway,NOR,Feb 2023,0,0
+Norway,NOR,Mar 2023,0,0
+Norway,NOR,Apr 2023,0,0
+Norway,NOR,May 2023,0,0
+Norway,NOR,Jun 2023,0,0
+Norway,NOR,Jul 2023,1,0
+Norway,NOR,Aug 2023,0,0
+Norway,NOR,Sep 2023,5,0
+Norway,NOR,Oct 2023,1,0
+Norway,NOR,Nov 2023,2,0
+Norway,NOR,Dec 2023,0,0
+Norway,NOR,Jan 2024,1,0
+Norway,NOR,Feb 2024,0,0
+Norway,NOR,Mar 2024,0,0
+Norway,NOR,Apr 2024,1,0
+Norway,NOR,May 2024,0,0
+Norway,NOR,Jun 2024,0,0
+Norway,NOR,Jul 2024,1,0
+Oman,OMN,Oct 2023,3,0
+Pakistan,PAK,Apr 2023,1,0
+Pakistan,PAK,May 2023,4,0
+Pakistan,PAK,Aug 2023,1,0
+Pakistan,PAK,Sep 2023,1,0
+Panama,PAN,Jun 2022,1,0
+Panama,PAN,Jul 2022,0,0
+Panama,PAN,Aug 2022,13,0
+Panama,PAN,Sep 2022,4,0
+Panama,PAN,Oct 2022,4,0
+Panama,PAN,Nov 2022,47,0
+Panama,PAN,Dec 2022,23,0
+Panama,PAN,Jan 2023,52,1
+Panama,PAN,Feb 2023,51,0
+Panama,PAN,Mar 2023,33,0
+Panama,PAN,Apr 2023,8,0
+Panama,PAN,May 2023,6,0
+Panama,PAN,Jun 2023,1,0
+Panama,PAN,Jul 2023,0,0
+Panama,PAN,Aug 2023,0,0
+Panama,PAN,Sep 2023,0,0
+Panama,PAN,Oct 2023,0,0
+Panama,PAN,Nov 2023,0,0
+Panama,PAN,Dec 2023,0,0
+Panama,PAN,Jan 2024,1,0
+Panama,PAN,Feb 2024,1,0
+Panama,PAN,Mar 2024,0,0
+Panama,PAN,Apr 2024,0,0
+Panama,PAN,May 2024,0,0
+Panama,PAN,Jun 2024,0,0
+Panama,PAN,Jul 2024,0,0
+Paraguay,PRY,Aug 2022,1,0
+Paraguay,PRY,Sep 2022,1,0
+Paraguay,PRY,Oct 2022,1,0
+Paraguay,PRY,Nov 2022,23,0
+Paraguay,PRY,Dec 2022,22,0
+Paraguay,PRY,Jan 2023,34,0
+Paraguay,PRY,Feb 2023,28,0
+Paraguay,PRY,Mar 2023,12,0
+Paraguay,PRY,Apr 2023,3,0
+Paraguay,PRY,May 2023,0,0
+Paraguay,PRY,Jun 2023,1,0
+Paraguay,PRY,Jul 2023,0,0
+Paraguay,PRY,Aug 2023,0,0
+Paraguay,PRY,Sep 2023,0,0
+Paraguay,PRY,Oct 2023,0,0
+Paraguay,PRY,Nov 2023,0,0
+Paraguay,PRY,Dec 2023,0,0
+Paraguay,PRY,Jan 2024,0,0
+Paraguay,PRY,Feb 2024,0,0
+Paraguay,PRY,Mar 2024,0,0
+Paraguay,PRY,Apr 2024,0,0
+Paraguay,PRY,May 2024,0,0
+Paraguay,PRY,Jun 2024,0,0
+Paraguay,PRY,Jul 2024,0,0
+Peru,PER,Jun 2022,40,0
+Peru,PER,Jul 2022,540,0
+Peru,PER,Aug 2022,1387,0
+Peru,PER,Sep 2022,826,0
+Peru,PER,Oct 2022,468,0
+Peru,PER,Nov 2022,338,0
+Peru,PER,Dec 2022,99,8
+Peru,PER,Jan 2023,51,7
+Peru,PER,Feb 2023,30,3
+Peru,PER,Mar 2023,26,3
+Peru,PER,Apr 2023,4,0
+Peru,PER,May 2023,2,0
+Peru,PER,Jun 2023,0,0
+Peru,PER,Jul 2023,2,0
+Peru,PER,Aug 2023,11,0
+Peru,PER,Sep 2023,6,0
+Peru,PER,Oct 2023,12,0
+Peru,PER,Nov 2023,10,0
+Peru,PER,Dec 2023,10,0
+Peru,PER,Jan 2024,9,0
+Peru,PER,Feb 2024,9,0
+Peru,PER,Mar 2024,14,0
+Peru,PER,Apr 2024,12,0
+Peru,PER,May 2024,11,0
+Peru,PER,Jun 2024,9,0
+Peru,PER,Jul 2024,13,0
+Philippines,PHL,Jul 2022,1,0
+Philippines,PHL,Aug 2022,3,0
+Philippines,PHL,May 2023,1,0
+Philippines,PHL,Dec 2023,4,0
+Poland,POL,Jun 2022,10,0
+Poland,POL,Jul 2022,43,0
+Poland,POL,Aug 2022,77,0
+Poland,POL,Sep 2022,58,0
+Poland,POL,Oct 2022,18,0
+Poland,POL,Nov 2022,8,0
+Poland,POL,Dec 2022,0,0
+Poland,POL,Jan 2023,1,0
+Poland,POL,Feb 2023,0,0
+Poland,POL,Mar 2023,0,0
+Poland,POL,Apr 2023,2,0
+Poland,POL,May 2023,0,0
+Poland,POL,Jun 2023,0,0
+Poland,POL,Jul 2023,0,0
+Poland,POL,Aug 2023,0,0
+Poland,POL,Sep 2023,0,0
+Poland,POL,Oct 2023,0,0
+Poland,POL,Nov 2023,0,0
+Poland,POL,Dec 2023,0,0
+Poland,POL,Jan 2024,3,0
+Poland,POL,Feb 2024,0,0
+Poland,POL,Mar 2024,1,0
+Poland,POL,Apr 2024,0,0
+Poland,POL,May 2024,2,0
+Poland,POL,Jun 2024,0,0
+Poland,POL,Jul 2024,0,0
+Portugal,PRT,May 2022,100,0
+Portugal,PRT,Jun 2022,302,0
+Portugal,PRT,Jul 2022,231,0
+Portugal,PRT,Aug 2022,213,0
+Portugal,PRT,Sep 2022,80,0
+Portugal,PRT,Oct 2022,18,0
+Portugal,PRT,Nov 2022,4,0
+Portugal,PRT,Dec 2022,0,0
+Portugal,PRT,Jan 2023,3,0
+Portugal,PRT,Feb 2023,0,0
+Portugal,PRT,Mar 2023,0,0
+Portugal,PRT,Apr 2023,2,0
+Portugal,PRT,May 2023,0,1
+Portugal,PRT,Jun 2023,2,0
+Portugal,PRT,Jul 2023,47,0
+Portugal,PRT,Aug 2023,3,0
+Portugal,PRT,Sep 2023,86,0
+Portugal,PRT,Oct 2023,43,0
+Portugal,PRT,Nov 2023,28,0
+Portugal,PRT,Dec 2023,0,0
+Portugal,PRT,Jan 2024,24,1
+Portugal,PRT,Feb 2024,4,1
+Portugal,PRT,Mar 2024,3,0
+Portugal,PRT,Apr 2024,0,0
+Portugal,PRT,May 2024,0,0
+Portugal,PRT,Jun 2024,0,0
+Portugal,PRT,Jul 2024,3,0
+Qatar,QAT,Jul 2022,2,0
+Qatar,QAT,Aug 2022,1,0
+Qatar,QAT,Sep 2022,2,0
+Korea,KOR,Jun 2022,1,0
+Korea,KOR,Sep 2022,1,0
+Korea,KOR,Nov 2022,2,0
+Korea,KOR,Mar 2023,1,0
+Korea,KOR,Apr 2023,38,0
+Korea,KOR,May 2023,46,0
+Korea,KOR,Jun 2023,28,0
+Korea,KOR,Jul 2023,9,0
+Korea,KOR,Aug 2023,9,0
+Korea,KOR,Sep 2023,6,0
+Korea,KOR,Oct 2023,8,0
+Korea,KOR,Nov 2023,6,0
+Korea,KOR,Apr 2024,1,0
+Korea,KOR,Jun 2024,3,0
+Korea,KOR,Jul 2024,2,0
+Moldova,MDA,Aug 2022,2,0
+Moldova,MDA,Sep 2022,0,0
+Moldova,MDA,Oct 2022,0,0
+Moldova,MDA,Nov 2022,0,0
+Moldova,MDA,Dec 2022,0,0
+Moldova,MDA,Jan 2023,0,0
+Moldova,MDA,Feb 2023,0,0
+Moldova,MDA,Mar 2023,0,0
+Moldova,MDA,Apr 2023,0,0
+Moldova,MDA,May 2023,0,0
+Moldova,MDA,Jun 2023,0,0
+Moldova,MDA,Jul 2023,0,0
+Moldova,MDA,Aug 2023,0,0
+Moldova,MDA,Sep 2023,0,0
+Moldova,MDA,Oct 2023,0,0
+Moldova,MDA,Nov 2023,0,0
+Moldova,MDA,Dec 2023,0,0
+Moldova,MDA,Jan 2024,0,0
+Moldova,MDA,Feb 2024,0,0
+Moldova,MDA,Mar 2024,0,0
+Moldova,MDA,Apr 2024,0,0
+Moldova,MDA,May 2024,0,0
+Moldova,MDA,Jun 2024,0,0
+Moldova,MDA,Jul 2024,0,0
+Romania,ROU,Jun 2022,11,0
+Romania,ROU,Jul 2022,9,0
+Romania,ROU,Aug 2022,16,0
+Romania,ROU,Sep 2022,4,0
+Romania,ROU,Oct 2022,3,0
+Romania,ROU,Nov 2022,2,0
+Romania,ROU,Dec 2022,1,0
+Romania,ROU,Jan 2023,1,0
+Romania,ROU,Feb 2023,0,0
+Romania,ROU,Mar 2023,0,0
+Romania,ROU,Apr 2023,0,0
+Romania,ROU,May 2023,0,0
+Romania,ROU,Jun 2023,0,0
+Romania,ROU,Jul 2023,0,0
+Romania,ROU,Aug 2023,0,0
+Romania,ROU,Sep 2023,0,0
+Romania,ROU,Oct 2023,0,0
+Romania,ROU,Nov 2023,0,0
+Romania,ROU,Dec 2023,0,0
+Romania,ROU,Jan 2024,0,0
+Romania,ROU,Feb 2024,0,0
+Romania,ROU,Mar 2024,0,0
+Romania,ROU,Apr 2024,0,0
+Romania,ROU,May 2024,0,0
+Romania,ROU,Jun 2024,0,0
+Romania,ROU,Jul 2024,0,0
+Russian Federation,RUS,Jul 2022,1,0
+Russian Federation,RUS,Aug 2022,0,0
+Russian Federation,RUS,Sep 2022,1,0
+Russian Federation,RUS,Oct 2022,0,0
+Russian Federation,RUS,Nov 2022,0,0
+Russian Federation,RUS,Dec 2022,0,0
+Russian Federation,RUS,Jan 2023,0,0
+Russian Federation,RUS,Feb 2023,0,0
+Russian Federation,RUS,Mar 2023,0,0
+Russian Federation,RUS,Apr 2023,0,0
+Russian Federation,RUS,May 2023,0,0
+Russian Federation,RUS,Jun 2023,0,0
+Russian Federation,RUS,Jul 2023,0,0
+Russian Federation,RUS,Aug 2023,0,0
+Russian Federation,RUS,Sep 2023,0,0
+Russian Federation,RUS,Oct 2023,0,0
+Russian Federation,RUS,Nov 2023,0,0
+Russian Federation,RUS,Dec 2023,0,0
+Russian Federation,RUS,Jan 2024,2,0
+Russian Federation,RUS,Feb 2024,0,0
+Russian Federation,RUS,Mar 2024,0,0
+Russian Federation,RUS,Apr 2024,0,0
+Russian Federation,RUS,May 2024,0,0
+Russian Federation,RUS,Jun 2024,0,0
+Russian Federation,RUS,Jul 2024,0,0
+Rwanda,RWA,Jul 2024,2,0
+Saint Martin (French part),MAF,Aug 2022,1,0
+Saint Martin (French part),MAF,Sep 2022,0,0
+Saint Martin (French part),MAF,Oct 2022,0,0
+Saint Martin (French part),MAF,Nov 2022,0,0
+Saint Martin (French part),MAF,Dec 2022,0,0
+Saint Martin (French part),MAF,Jan 2023,0,0
+Saint Martin (French part),MAF,Feb 2023,0,0
+Saint Martin (French part),MAF,Mar 2023,0,0
+Saint Martin (French part),MAF,Apr 2023,0,0
+Saint Martin (French part),MAF,May 2023,0,0
+Saint Martin (French part),MAF,Jun 2023,0,0
+Saint Martin (French part),MAF,Jul 2023,0,0
+Saint Martin (French part),MAF,Aug 2023,0,0
+Saint Martin (French part),MAF,Sep 2023,0,0
+Saint Martin (French part),MAF,Oct 2023,0,0
+Saint Martin (French part),MAF,Nov 2023,0,0
+Saint Martin (French part),MAF,Dec 2023,0,0
+Saint Martin (French part),MAF,Jan 2024,0,0
+Saint Martin (French part),MAF,Feb 2024,0,0
+Saint Martin (French part),MAF,Mar 2024,0,0
+Saint Martin (French part),MAF,Apr 2024,0,0
+Saint Martin (French part),MAF,May 2024,0,0
+Saint Martin (French part),MAF,Jun 2024,0,0
+Saint Martin (French part),MAF,Jul 2024,0,0
+San Marino,SMR,Sep 2022,0,0
+San Marino,SMR,Oct 2022,1,0
+San Marino,SMR,Nov 2022,0,0
+San Marino,SMR,Dec 2022,0,0
+San Marino,SMR,Jan 2023,0,0
+San Marino,SMR,Feb 2023,0,0
+San Marino,SMR,Mar 2023,0,0
+San Marino,SMR,Apr 2023,0,0
+San Marino,SMR,May 2023,0,0
+San Marino,SMR,Jun 2023,0,0
+San Marino,SMR,Jul 2023,0,0
+San Marino,SMR,Aug 2023,0,0
+San Marino,SMR,Sep 2023,0,0
+San Marino,SMR,Oct 2023,0,0
+San Marino,SMR,Nov 2023,0,0
+San Marino,SMR,Dec 2023,0,0
+San Marino,SMR,Jan 2024,0,0
+San Marino,SMR,Feb 2024,0,0
+San Marino,SMR,Mar 2024,0,0
+San Marino,SMR,Apr 2024,0,0
+San Marino,SMR,May 2024,0,0
+San Marino,SMR,Jun 2024,0,0
+San Marino,SMR,Jul 2024,0,0
+Saudi Arabia,SAU,Jul 2022,4,0
+Saudi Arabia,SAU,Aug 2022,4,0
+Saudi Arabia,SAU,Feb 2023,1,0
+Saudi Arabia,SAU,Mar 2023,1,0
+Saudi Arabia,SAU,Apr 2023,3,0
+Saudi Arabia,SAU,May 2023,29,0
+Saudi Arabia,SAU,Jun 2023,50,0
+Saudi Arabia,SAU,Jul 2023,93,0
+Saudi Arabia,SAU,Aug 2023,206,0
+Saudi Arabia,SAU,Sep 2023,143,0
+Saudi Arabia,SAU,Oct 2023,81,0
+Saudi Arabia,SAU,Nov 2023,37,0
+Saudi Arabia,SAU,Dec 2023,17,0
+Saudi Arabia,SAU,Jan 2024,16,0
+Saudi Arabia,SAU,Feb 2024,15,0
+Saudi Arabia,SAU,Mar 2024,20,0
+Saudi Arabia,SAU,Apr 2024,13,0
+Saudi Arabia,SAU,May 2024,15,0
+Saudi Arabia,SAU,Jun 2024,6,0
+Saudi Arabia,SAU,Jul 2024,9,0
+Serbia,SRB,Jun 2022,1,0
+Serbia,SRB,Jul 2022,9,0
+Serbia,SRB,Aug 2022,21,0
+Serbia,SRB,Sep 2022,9,0
+Serbia,SRB,Oct 2022,0,0
+Serbia,SRB,Nov 2022,0,0
+Serbia,SRB,Dec 2022,0,0
+Serbia,SRB,Jan 2023,0,0
+Serbia,SRB,Feb 2023,0,0
+Serbia,SRB,Mar 2023,0,0
+Serbia,SRB,Apr 2023,0,0
+Serbia,SRB,May 2023,0,0
+Serbia,SRB,Jun 2023,0,0
+Serbia,SRB,Jul 2023,0,0
+Serbia,SRB,Aug 2023,0,0
+Serbia,SRB,Sep 2023,0,0
+Serbia,SRB,Oct 2023,0,0
+Serbia,SRB,Nov 2023,0,0
+Serbia,SRB,Dec 2023,0,0
+Serbia,SRB,Jan 2024,0,0
+Serbia,SRB,Feb 2024,0,0
+Serbia,SRB,Mar 2024,0,0
+Serbia,SRB,Apr 2024,0,0
+Serbia,SRB,May 2024,0,0
+Serbia,SRB,Jun 2024,0,0
+Serbia,SRB,Jul 2024,0,0
+Singapore,SGP,Jun 2022,1,0
+Singapore,SGP,Jul 2022,10,0
+Singapore,SGP,Aug 2022,5,0
+Singapore,SGP,Sep 2022,3,0
+Singapore,SGP,Jan 2023,2,0
+Singapore,SGP,Mar 2023,1,0
+Singapore,SGP,Apr 2023,1,0
+Singapore,SGP,May 2023,2,0
+Singapore,SGP,Jul 2023,1,0
+Singapore,SGP,Sep 2023,5,0
+Singapore,SGP,Oct 2023,5,0
+Singapore,SGP,Nov 2023,13,0
+Singapore,SGP,Dec 2023,1,0
+Singapore,SGP,Jan 2024,1,0
+Singapore,SGP,Feb 2024,1,0
+Singapore,SGP,Mar 2024,5,0
+Singapore,SGP,Apr 2024,2,0
+Singapore,SGP,Jun 2024,1,0
+Singapore,SGP,Jul 2024,1,0
+Slovakia,SVK,Jul 2022,6,0
+Slovakia,SVK,Aug 2022,6,0
+Slovakia,SVK,Sep 2022,2,0
+Slovakia,SVK,Oct 2022,0,0
+Slovakia,SVK,Nov 2022,0,0
+Slovakia,SVK,Dec 2022,0,0
+Slovakia,SVK,Jan 2023,0,0
+Slovakia,SVK,Feb 2023,0,0
+Slovakia,SVK,Mar 2023,0,0
+Slovakia,SVK,Apr 2023,0,0
+Slovakia,SVK,May 2023,0,0
+Slovakia,SVK,Jun 2023,0,0
+Slovakia,SVK,Jul 2023,0,0
+Slovakia,SVK,Aug 2023,0,0
+Slovakia,SVK,Sep 2023,0,0
+Slovakia,SVK,Oct 2023,0,0
+Slovakia,SVK,Nov 2023,0,0
+Slovakia,SVK,Dec 2023,0,0
+Slovakia,SVK,Jan 2024,2,0
+Slovakia,SVK,Feb 2024,0,0
+Slovakia,SVK,Mar 2024,0,0
+Slovakia,SVK,Apr 2024,0,0
+Slovakia,SVK,May 2024,0,0
+Slovakia,SVK,Jun 2024,0,0
+Slovakia,SVK,Jul 2024,0,0
+Slovenia,SVN,May 2022,2,0
+Slovenia,SVN,Jun 2022,7,0
+Slovenia,SVN,Jul 2022,24,0
+Slovenia,SVN,Aug 2022,10,0
+Slovenia,SVN,Sep 2022,4,0
+Slovenia,SVN,Oct 2022,0,0
+Slovenia,SVN,Nov 2022,0,0
+Slovenia,SVN,Dec 2022,0,0
+Slovenia,SVN,Jan 2023,0,0
+Slovenia,SVN,Feb 2023,0,0
+Slovenia,SVN,Mar 2023,0,0
+Slovenia,SVN,Apr 2023,0,0
+Slovenia,SVN,May 2023,0,0
+Slovenia,SVN,Jun 2023,0,0
+Slovenia,SVN,Jul 2023,0,0
+Slovenia,SVN,Aug 2023,0,0
+Slovenia,SVN,Sep 2023,0,0
+Slovenia,SVN,Oct 2023,0,0
+Slovenia,SVN,Nov 2023,0,0
+Slovenia,SVN,Dec 2023,0,0
+Slovenia,SVN,Jan 2024,0,0
+Slovenia,SVN,Feb 2024,0,0
+Slovenia,SVN,Mar 2024,0,0
+Slovenia,SVN,Apr 2024,0,0
+Slovenia,SVN,May 2024,0,0
+Slovenia,SVN,Jun 2024,0,0
+Slovenia,SVN,Jul 2024,0,0
+South Africa,ZAF,Jul 2022,3,0
+South Africa,ZAF,Aug 2022,2,0
+South Africa,ZAF,Sep 2022,0,0
+South Africa,ZAF,Oct 2022,0,0
+South Africa,ZAF,Nov 2022,0,0
+South Africa,ZAF,Dec 2022,0,0
+South Africa,ZAF,Jan 2023,0,0
+South Africa,ZAF,Feb 2023,0,0
+South Africa,ZAF,Mar 2023,0,0
+South Africa,ZAF,Apr 2023,0,0
+South Africa,ZAF,May 2023,0,0
+South Africa,ZAF,Jun 2023,0,0
+South Africa,ZAF,Jul 2023,0,0
+South Africa,ZAF,Aug 2023,0,0
+South Africa,ZAF,Sep 2023,0,0
+South Africa,ZAF,Oct 2023,0,0
+South Africa,ZAF,Nov 2023,0,0
+South Africa,ZAF,Dec 2023,0,0
+South Africa,ZAF,Jan 2024,0,0
+South Africa,ZAF,Feb 2024,0,0
+South Africa,ZAF,Mar 2024,0,0
+South Africa,ZAF,Apr 2024,0,0
+South Africa,ZAF,May 2024,2,1
+South Africa,ZAF,Jun 2024,14,2
+South Africa,ZAF,Jul 2024,6,0
+Spain,ESP,May 2022,98,0
+Spain,ESP,Jun 2022,702,0
+Spain,ESP,Jul 2022,2938,0
+Spain,ESP,Aug 2022,2805,2
+Spain,ESP,Sep 2022,645,0
+Spain,ESP,Oct 2022,129,0
+Spain,ESP,Nov 2022,91,1
+Spain,ESP,Dec 2022,88,0
+Spain,ESP,Jan 2023,32,0
+Spain,ESP,Feb 2023,15,0
+Spain,ESP,Mar 2023,3,0
+Spain,ESP,Apr 2023,3,0
+Spain,ESP,May 2023,6,0
+Spain,ESP,Jun 2023,4,0
+Spain,ESP,Jul 2023,0,0
+Spain,ESP,Aug 2023,6,0
+Spain,ESP,Sep 2023,46,0
+Spain,ESP,Oct 2023,36,0
+Spain,ESP,Nov 2023,37,0
+Spain,ESP,Dec 2023,68,0
+Spain,ESP,Jan 2024,34,0
+Spain,ESP,Feb 2024,112,0
+Spain,ESP,Mar 2024,62,0
+Spain,ESP,Apr 2024,32,0
+Spain,ESP,May 2024,38,0
+Spain,ESP,Jun 2024,54,0
+Spain,ESP,Jul 2024,20,0
+Sri Lanka,LKA,Nov 2022,2,0
+Sri Lanka,LKA,Dec 2022,0,0
+Sri Lanka,LKA,Jan 2023,0,0
+Sri Lanka,LKA,Feb 2023,0,0
+Sri Lanka,LKA,Mar 2023,0,0
+Sri Lanka,LKA,Apr 2023,0,0
+Sri Lanka,LKA,May 2023,0,0
+Sri Lanka,LKA,Jun 2023,2,0
+Sri Lanka,LKA,Jul 2023,0,0
+Sri Lanka,LKA,Aug 2023,0,0
+Sri Lanka,LKA,Sep 2023,0,0
+Sri Lanka,LKA,Oct 2023,0,0
+Sri Lanka,LKA,Nov 2023,0,0
+Sri Lanka,LKA,Dec 2023,0,0
+Sri Lanka,LKA,Jan 2024,0,0
+Sri Lanka,LKA,Feb 2024,0,0
+Sri Lanka,LKA,Mar 2024,0,0
+Sri Lanka,LKA,Apr 2024,0,0
+Sri Lanka,LKA,May 2024,0,0
+Sri Lanka,LKA,Jun 2024,0,0
+Sri Lanka,LKA,Jul 2024,0,0
+Sudan,SDN,Aug 2022,2,0
+Sudan,SDN,Sep 2022,5,1
+Sudan,SDN,Oct 2022,11,0
+Sudan,SDN,Apr 2023,1,0
+Sweden,SWE,May 2022,4,0
+Sweden,SWE,Jun 2022,24,0
+Sweden,SWE,Jul 2022,57,0
+Sweden,SWE,Aug 2022,72,0
+Sweden,SWE,Sep 2022,38,0
+Sweden,SWE,Oct 2022,17,0
+Sweden,SWE,Nov 2022,17,0
+Sweden,SWE,Dec 2022,21,0
+Sweden,SWE,Jan 2023,10,0
+Sweden,SWE,Feb 2023,0,0
+Sweden,SWE,Mar 2023,0,0
+Sweden,SWE,Apr 2023,0,0
+Sweden,SWE,May 2023,0,0
+Sweden,SWE,Jun 2023,0,0
+Sweden,SWE,Jul 2023,0,0
+Sweden,SWE,Aug 2023,0,0
+Sweden,SWE,Sep 2023,4,0
+Sweden,SWE,Oct 2023,0,0
+Sweden,SWE,Nov 2023,0,0
+Sweden,SWE,Dec 2023,3,0
+Sweden,SWE,Jan 2024,3,0
+Sweden,SWE,Feb 2024,2,0
+Sweden,SWE,Mar 2024,0,0
+Sweden,SWE,Apr 2024,14,0
+Sweden,SWE,May 2024,11,0
+Sweden,SWE,Jun 2024,2,0
+Sweden,SWE,Jul 2024,1,0
+Switzerland,CHE,May 2022,4,0
+Switzerland,CHE,Jun 2022,79,0
+Switzerland,CHE,Jul 2022,181,0
+Switzerland,CHE,Aug 2022,192,0
+Switzerland,CHE,Sep 2022,57,0
+Switzerland,CHE,Oct 2022,33,0
+Switzerland,CHE,Nov 2022,4,0
+Switzerland,CHE,Dec 2022,1,0
+Switzerland,CHE,Jan 2023,0,0
+Switzerland,CHE,Feb 2023,0,0
+Switzerland,CHE,Mar 2023,1,0
+Switzerland,CHE,Apr 2023,0,0
+Switzerland,CHE,May 2023,0,0
+Switzerland,CHE,Jun 2023,2,0
+Switzerland,CHE,Jul 2023,0,0
+Switzerland,CHE,Aug 2023,0,0
+Switzerland,CHE,Sep 2023,5,0
+Switzerland,CHE,Oct 2023,3,0
+Switzerland,CHE,Nov 2023,0,0
+Switzerland,CHE,Dec 2023,1,0
+Switzerland,CHE,Jan 2024,9,0
+Switzerland,CHE,Feb 2024,7,0
+Switzerland,CHE,Mar 2024,0,0
+Switzerland,CHE,Apr 2024,0,0
+Switzerland,CHE,May 2024,0,0
+Switzerland,CHE,Jun 2024,0,0
+Switzerland,CHE,Jul 2024,0,0
+Thailand,THA,Jul 2022,2,0
+Thailand,THA,Aug 2022,5,0
+Thailand,THA,Sep 2022,1,0
+Thailand,THA,Oct 2022,4,0
+Thailand,THA,Nov 2022,0,0
+Thailand,THA,Dec 2022,0,0
+Thailand,THA,Jan 2023,0,0
+Thailand,THA,Feb 2023,3,0
+Thailand,THA,Mar 2023,3,0
+Thailand,THA,Apr 2023,3,0
+Thailand,THA,May 2023,22,0
+Thailand,THA,Jun 2023,13,0
+Thailand,THA,Jul 2023,63,0
+Thailand,THA,Aug 2023,197,1
+Thailand,THA,Sep 2023,144,0
+Thailand,THA,Oct 2023,117,0
+Thailand,THA,Nov 2023,79,0
+Thailand,THA,Dec 2023,29,0
+Thailand,THA,Jan 2024,36,0
+Thailand,THA,Feb 2024,22,0
+Thailand,THA,Mar 2024,12,0
+Thailand,THA,Apr 2024,19,0
+Thailand,THA,May 2024,21,9
+Thailand,THA,Jun 2024,10,0
+Thailand,THA,Jul 2024,15,0
+United Kingdom,GBR,May 2022,190,0
+United Kingdom,GBR,Jun 2022,1045,0
+United Kingdom,GBR,Jul 2022,1197,0
+United Kingdom,GBR,Aug 2022,981,0
+United Kingdom,GBR,Sep 2022,222,0
+United Kingdom,GBR,Oct 2022,63,0
+United Kingdom,GBR,Nov 2022,27,0
+United Kingdom,GBR,Dec 2022,5,0
+United Kingdom,GBR,Jan 2023,5,0
+United Kingdom,GBR,Feb 2023,0,0
+United Kingdom,GBR,Mar 2023,3,0
+United Kingdom,GBR,Apr 2023,3,0
+United Kingdom,GBR,May 2023,11,0
+United Kingdom,GBR,Jun 2023,1,0
+United Kingdom,GBR,Jul 2023,8,0
+United Kingdom,GBR,Aug 2023,10,0
+United Kingdom,GBR,Sep 2023,34,0
+United Kingdom,GBR,Oct 2023,15,0
+United Kingdom,GBR,Nov 2023,47,0
+United Kingdom,GBR,Dec 2023,8,0
+United Kingdom,GBR,Jan 2024,7,0
+United Kingdom,GBR,Feb 2024,10,0
+United Kingdom,GBR,Mar 2024,16,0
+United Kingdom,GBR,Apr 2024,20,0
+United Kingdom,GBR,May 2024,24,0
+United Kingdom,GBR,Jun 2024,0,0
+United Kingdom,GBR,Jul 2024,66,0
+Trinidad and Tobago,TTO,Jul 2023,4,0
+Trinidad and Tobago,TTO,Aug 2023,0,0
+Trinidad and Tobago,TTO,Sep 2023,0,0
+Trinidad and Tobago,TTO,Oct 2023,0,0
+Trinidad and Tobago,TTO,Nov 2023,0,0
+Trinidad and Tobago,TTO,Dec 2023,0,0
+Trinidad and Tobago,TTO,Jan 2024,0,0
+Trinidad and Tobago,TTO,Feb 2024,0,0
+Trinidad and Tobago,TTO,Mar 2024,0,0
+Trinidad and Tobago,TTO,Apr 2024,0,0
+Trinidad and Tobago,TTO,May 2024,0,0
+Trinidad and Tobago,TTO,Jun 2024,0,0
+Trinidad and Tobago,TTO,Jul 2024,0,0
+Türkiye,TUR,Jun 2022,1,0
+Türkiye,TUR,Jul 2022,0,0
+Türkiye,TUR,Aug 2022,0,0
+Türkiye,TUR,Sep 2022,0,0
+Türkiye,TUR,Oct 2022,11,0
+Türkiye,TUR,Nov 2022,0,0
+Türkiye,TUR,Dec 2022,0,0
+Türkiye,TUR,Jan 2023,0,0
+Türkiye,TUR,Feb 2023,0,0
+Türkiye,TUR,Mar 2023,0,0
+Türkiye,TUR,Apr 2023,0,0
+Türkiye,TUR,May 2023,0,0
+Türkiye,TUR,Jun 2023,0,0
+Türkiye,TUR,Jul 2023,0,0
+Türkiye,TUR,Aug 2023,0,0
+Türkiye,TUR,Sep 2023,0,0
+Türkiye,TUR,Oct 2023,0,0
+Türkiye,TUR,Nov 2023,0,0
+Türkiye,TUR,Dec 2023,0,0
+Türkiye,TUR,Jan 2024,0,0
+Türkiye,TUR,Feb 2024,0,0
+Türkiye,TUR,Mar 2024,0,0
+Türkiye,TUR,Apr 2024,0,0
+Türkiye,TUR,May 2024,0,0
+Türkiye,TUR,Jun 2024,0,0
+Türkiye,TUR,Jul 2024,0,0
+Uganda,UGA,Jul 2024,2,0
+Ukraine,UKR,Sep 2022,3,0
+Ukraine,UKR,Oct 2022,2,0
+Ukraine,UKR,Nov 2022,0,0
+Ukraine,UKR,Dec 2022,0,0
+Ukraine,UKR,Jan 2023,0,0
+Ukraine,UKR,Feb 2023,0,0
+Ukraine,UKR,Mar 2023,0,0
+Ukraine,UKR,Apr 2023,0,0
+Ukraine,UKR,May 2023,0,0
+Ukraine,UKR,Jun 2023,0,0
+Ukraine,UKR,Jul 2023,0,0
+Ukraine,UKR,Aug 2023,0,0
+Ukraine,UKR,Sep 2023,0,0
+Ukraine,UKR,Oct 2023,0,0
+Ukraine,UKR,Nov 2023,0,0
+Ukraine,UKR,Dec 2023,0,0
+Ukraine,UKR,Jan 2024,0,0
+Ukraine,UKR,Feb 2024,0,0
+Ukraine,UKR,Mar 2024,0,0
+Ukraine,UKR,Apr 2024,0,0
+Ukraine,UKR,May 2024,0,0
+Ukraine,UKR,Jun 2024,0,0
+Ukraine,UKR,Jul 2024,0,0
+United Arab Emirates,ARE,May 2022,4,0
+United Arab Emirates,ARE,Jun 2022,9,0
+United Arab Emirates,ARE,Jul 2022,3,0
+United Arab Emirates,ARE,Jan 2023,2,0
+United Arab Emirates,ARE,Feb 2023,1,0
+United Arab Emirates,ARE,Mar 2023,1,0
+United Arab Emirates,ARE,Apr 2023,1,0
+United Arab Emirates,ARE,May 2023,1,0
+United Arab Emirates,ARE,Aug 2023,1,0
+United Arab Emirates,ARE,Oct 2023,1,0
+United Arab Emirates,ARE,Dec 2023,1,0
+United Arab Emirates,ARE,Jan 2024,1,0
+United Arab Emirates,ARE,Mar 2024,1,0
+United Arab Emirates,ARE,Apr 2024,1,0
+United States,USA,Apr 2022,1,0
+United States,USA,May 2022,83,0
+United States,USA,Jun 2022,1312,0
+United States,USA,Jul 2022,8461,7
+United States,USA,Aug 2022,12970,22
+United States,USA,Sep 2022,4413,12
+United States,USA,Oct 2022,1704,8
+United States,USA,Nov 2022,857,3
+United States,USA,Dec 2022,284,0
+United States,USA,Jan 2023,193,2
+United States,USA,Feb 2023,64,1
+United States,USA,Mar 2023,49,0
+United States,USA,Apr 2023,41,0
+United States,USA,May 2023,107,0
+United States,USA,Jun 2023,112,0
+United States,USA,Jul 2023,113,0
+United States,USA,Aug 2023,112,0
+United States,USA,Sep 2023,134,0
+United States,USA,Oct 2023,297,1
+United States,USA,Nov 2023,268,2
+United States,USA,Dec 2023,234,1
+United States,USA,Jan 2024,300,1
+United States,USA,Feb 2024,258,0
+United States,USA,Mar 2024,276,0
+United States,USA,Apr 2024,309,0
+United States,USA,May 2024,205,0
+United States,USA,Jun 2024,199,0
+United States,USA,Jul 2024,200,0
+Uruguay,URY,Jul 2022,1,0
+Uruguay,URY,Aug 2022,3,0
+Uruguay,URY,Sep 2022,4,0
+Uruguay,URY,Oct 2022,5,0
+Uruguay,URY,Nov 2022,1,0
+Uruguay,URY,Dec 2022,5,0
+Uruguay,URY,Jan 2023,0,0
+Uruguay,URY,Feb 2023,0,0
+Uruguay,URY,Mar 2023,0,0
+Uruguay,URY,Apr 2023,0,0
+Uruguay,URY,May 2023,0,0
+Uruguay,URY,Jun 2023,0,0
+Uruguay,URY,Jul 2023,0,0
+Uruguay,URY,Aug 2023,0,0
+Uruguay,URY,Sep 2023,0,0
+Uruguay,URY,Oct 2023,0,0
+Uruguay,URY,Nov 2023,0,0
+Uruguay,URY,Dec 2023,0,0
+Uruguay,URY,Jan 2024,0,0
+Uruguay,URY,Feb 2024,0,0
+Uruguay,URY,Mar 2024,0,0
+Uruguay,URY,Apr 2024,0,0
+Uruguay,URY,May 2024,0,0
+Uruguay,URY,Jun 2024,0,0
+Uruguay,URY,Jul 2024,0,0
+Venezuela,VEN,Jun 2022,1,0
+Venezuela,VEN,Jul 2022,0,0
+Venezuela,VEN,Aug 2022,2,0
+Venezuela,VEN,Sep 2022,2,0
+Venezuela,VEN,Oct 2022,5,0
+Venezuela,VEN,Nov 2022,0,0
+Venezuela,VEN,Dec 2022,2,0
+Venezuela,VEN,Jan 2023,0,0
+Venezuela,VEN,Feb 2023,0,0
+Venezuela,VEN,Mar 2023,0,0
+Venezuela,VEN,Apr 2023,0,0
+Venezuela,VEN,May 2023,0,0
+Venezuela,VEN,Jun 2023,0,0
+Venezuela,VEN,Jul 2023,0,0
+Venezuela,VEN,Aug 2023,0,0
+Venezuela,VEN,Sep 2023,0,0
+Venezuela,VEN,Oct 2023,0,0
+Venezuela,VEN,Nov 2023,0,0
+Venezuela,VEN,Dec 2023,0,0
+Venezuela,VEN,Jan 2024,0,0
+Venezuela,VEN,Feb 2024,0,0
+Venezuela,VEN,Mar 2024,0,0
+Venezuela,VEN,Apr 2024,0,0
+Venezuela,VEN,May 2024,0,0
+Venezuela,VEN,Jun 2024,0,0
+Venezuela,VEN,Jul 2024,0,0
+Viet Nam,VNM,Oct 2022,2,0
+Viet Nam,VNM,Jul 2023,1,0
+Viet Nam,VNM,Sep 2023,2,0
+Viet Nam,VNM,Oct 2023,40,1
+Viet Nam,VNM,Nov 2023,47,1
+Viet Nam,VNM,Dec 2023,29,4
+Viet Nam,VNM,Jan 2024,21,0
+Viet Nam,VNM,Feb 2024,5,0
+Viet Nam,VNM,Mar 2024,22,2
+Viet Nam,VNM,May 2024,27,0
+Viet Nam,VNM,Jun 2024,6,0
